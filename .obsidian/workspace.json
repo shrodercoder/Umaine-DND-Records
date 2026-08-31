@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ef00f9ee65068d1",
+            "id": "503718996852cc52",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,77 +22,31 @@
             }
           },
           {
-            "id": "157f0e8b5026294b",
+            "id": "e45c0e81643aebc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wildemount/Quest Reports-- Wildemount/Twinward Isles Expedition.md",
+                "file": "Quest Reports-- Unsure, review pls/Borderlands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Twinward Isles Expedition"
+              "title": "Borderlands"
             }
           },
           {
-            "id": "6fbb72158ca3a8f9",
+            "id": "0edfe2b5f122112a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quest Reports-- Unsure/Night at the Museum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Night at the Museum"
-            }
-          },
-          {
-            "id": "9ef76e77a250e276",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quest Reports-- Unsure/Time Flies when you're having Frog.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Time Flies when you're having Frog"
-            }
-          },
-          {
-            "id": "ba0cf708fcc72dc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Player Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Player Template"
-            }
-          },
-          {
-            "id": "3ba3159a7d274ca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Quest Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quest Template"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "white st",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wildemount/Wildemount Locations/Menagerie Coast/Tussoa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,43 +211,48 @@
       "bases:Create new base": false
     }
   },
-  "active": "3ba3159a7d274ca9",
+  "active": "e45c0e81643aebc3",
   "lastOpenFiles": [
-    "Templates/Player Template DECEASED.md",
-    "Templates/Player Template.md",
-    "PCs/Deceased/Asynth DECEASED.md",
+    "Quest Reports-- Unsure, review pls/☆ It's The Same ‘Ol Situation ☆.md",
+    "Wildemount/Wildemount Locations/Pride's Call.md",
+    "Wildemount/Wildemount Locations/Yrrosa.md",
+    "Wildemount/Wildemount Locations/Wildemount.md",
+    "Wildemount/Wildemount Locations/Trostenwald.md",
+    "Wildemount/Quest Reports-- Wildemount/The Lantern and The Plow.md",
+    "Wildemount/Quest Reports-- Wildemount/Demanded Migration.md",
     "Templates/Quest Template.md",
-    "PCs/someone help pls i cant find them/Virtak.md",
-    "PCs/someone help pls i cant find them/Ace.md",
-    "PCs/someone help pls i cant find them",
-    "Quest Reports-- Unsure/Time Flies when you're having Frog.md",
-    "Quest Reports-- Unsure/Clownin' Around.md",
-    "Quest Reports-- Unsure/Night at the Museum.md",
-    "Wildemount/Quest Reports-- Wildemount/Twinward Isles Expedition.md",
-    "Welcome.md",
-    "Wildemount/Quest Reports-- Wildemount/The King of Cats.md",
-    "Wildemount/Map of Wildemount.md",
-    "Wildemount/Port Damali.md",
+    "Wildemount/Quest Reports-- Wildemount/A Spiky Situation.md",
+    "Wildemount/Wildemount Locations/Menagerie Coast/Othe.md",
+    "PCs/Zolis Windrivver.md",
+    "PCs/Comet Novatalon DECEASED.md",
     "Tal'Dorei/Quest Reports-- Tal'dorei/Fallen Embers.md",
+    "PCs/someone help pls i cant find them/Tace.md",
+    "Wildemount/Quest Reports-- Wildemount/Let's Kill Some Kobolds!.md",
+    "Quest Reports-- Unsure, review pls/First Time at the Rodeo.md",
+    "Wildemount/Quest Reports-- Wildemount/Bring out Ye Dead.md",
+    "PCs/Edward Lake.md",
+    "Wildemount/Quest Reports-- Wildemount/Take This!.md",
+    "Wildemount/Quest Reports-- Wildemount/Goons and Goblins.md",
+    "Tal'Dorei/Quest Reports-- Tal'dorei/Rifenmistery.md",
+    "Tal'Dorei/Quest Reports-- Tal'dorei/Someone Let the Dogs Out.md",
+    "Wildemount/Quest Reports-- Wildemount/Roads Go Ever Ever On.md",
+    "Wildemount/Quest Reports-- Wildemount/Trade Time Troubles.md",
+    "PCs/Lyrius DECEASED.md",
+    "PCs/Linda Greymoor.md",
+    "Wildemount/Wildemount Locations/Xhorhas",
+    "images",
+    "images/Port_Damali 1.webp",
+    "images/Damali_Revision_4 1.jpg",
+    "Damali_Revision_4.jpg",
+    "Port_Damali.webp",
+    "Wildemount/Wildemount Locations/Menagerie Coast",
+    "images/Wildemount_Poster_Map.webp",
+    "Wildemount/Wildemount Locations",
+    "Wildemount/Wildemount Lore",
+    "PCs/someone help pls i cant find them",
     "githubkey.pub",
     "githubkey",
-    "Quest Reports-- Unsure/The Woodcutter's Sneak.md",
-    "Wildemount/Wildemount_Poster_Map.webp",
-    "Wildemount/Wildemount.md",
     "Wildemount/Quest Reports-- Wildemount",
-    "Wildemount",
-    "Templates",
-    "Tal'Dorei/Quest Reports-- Tal'dorei",
-    "Tal'Dorei",
-    "Quest Reports-- Unsure",
-    "PCs/Levels 7-9/Siegfried.md",
-    "PCs/Levels 4-6/Roh-Bob.md",
-    "PCs/Levels 4-6/Drand.md",
-    "PCs/Levels 10-12/Daphy.md",
-    "PCs/Levels 1-3/Smithers Gerefield.md",
-    "PCs/Deceased/VerKong III DECEASED.md",
-    "PCs/Deceased/Johnny Pineapple DECEASED.md",
-    "PCs/Levels 7-9",
-    "NPCs/Agatha.md"
+    "Wildemount"
   ]
 }
