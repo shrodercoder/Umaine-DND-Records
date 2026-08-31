@@ -5,7 +5,7 @@ Location:  [[Port Damali]]
 NPCs:
 - 
 PCs:
-- [[Gabba Goul]]
+- [[Gabba Goul DECEASED]]
 - [[Carter Farsight]]
 - [[Xavier]]
 - [[Dobin Longang]]

@@ -3,7 +3,8 @@ Level:
 Class(es):
 Race:
 Player Wiki Link:
-Death Details:
+
+**Death Details:**
 Quest:
 Date:
 In-Universe Date:

@@ -4,7 +4,7 @@ Class(es):
 Race:
 Quests:
 
-Death Details:
+**Death Details:**
 Quest: [[Fallen Embers]]
 Date: 9/6/25
 In-Universe:
