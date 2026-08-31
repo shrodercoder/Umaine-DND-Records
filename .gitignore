@@ -1,0 +1,12 @@
+.obsidian/workspace
+.obsidian/cache
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/appearance.json
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
+*.tmp
+/.Trash
