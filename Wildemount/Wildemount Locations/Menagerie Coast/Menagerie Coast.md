@@ -1,6 +1,10 @@
-Wiki Link
+- https://criticalrole.fandom.com/wiki/Menagerie_Coast
+- https://2014.5e.tools/book.html#egw,4,menagerie%20coast,0
 Images link
 Events:
+- [[Eviction Notice]]
+	- 9/13/25 / In-Universe Date
+	- World Impact: A mysterious undead retrieved a piece of wood from a village called Seadust.
 - [[Toy Chest]]
 	- 9/15/25 / In-Universe Date
 	- World Impact: Various things about the circus have been learned, including that people from across the oceans are visiting.

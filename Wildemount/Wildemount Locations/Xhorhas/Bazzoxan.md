@@ -3,4 +3,4 @@ Images link
 Events:
 - [[I Looked Away for a Second]]
 	- 9/18/25 / In-Universe Date
-	- A section of the Aurora's watch has returned to their post in Bazzoxan, with security increasing around the Umbra Gate.
+	- World Impact: A section of the Aurora's watch has returned to their post in Bazzoxan, with security increasing around the Umbra Gate.

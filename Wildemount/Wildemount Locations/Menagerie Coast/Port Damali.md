@@ -1,4 +1,5 @@
-Wiki Link
+- https://criticalrole.fandom.com/wiki/Port_Damali
+- https://2014.5e.tools/book.html#egw,4,port%20damali,0
 [[Port Damali Images]]
 Events:
 - [[Twinward Isles Expedition]]
@@ -21,7 +22,7 @@ Events:
 	- World Impact: Barnabus Brrrblton was able to set up his wizard tower outside of Port Damali. He's a frog and a wizard.
 - [[Goons and Goblins]]
 	- 9/13/25 / In-Universe Date
-	- Small goblin gangs in Port Dismali are growing increasingly restless.
+	- World Impact: Small goblin gangs in Port Dismali are growing increasingly restless.
 - [[Cat's Out of the Bag]]
 	- 9/14/25 / In-Universe Date
 	- World Impact: N/A
@@ -33,4 +34,4 @@ Events:
 	- World Impact: Quest Failure? So they did get the items back and did kill some of the kobolds, but they also didn't fully eliminate them....
 - [[Sunk Costs]]
 	- 10/2/25
-	- Two members of the pirate crew who were captured and being held by the town guard of Damali were murdered in their sleep by an unknown party.
+	- World Impact: Two members of the pirate crew who were captured and being held by the town guard of Damali were murdered in their sleep by an unknown party.
