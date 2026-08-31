@@ -1,4 +1,4 @@
-DM: ?
+DM: Lorenzo
 Date: 9/12/25
 In-Universe Date: 
 Location: [[Port Damali]]

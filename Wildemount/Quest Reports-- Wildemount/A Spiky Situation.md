@@ -3,7 +3,7 @@ Date: 9/27/25
 In-Universe Date: 
 Location: [[Port Damali]], [[Othe]] 
 NPCs:
-- Strange potion-making kenku\
+- Strange potion-making kenku
 - Angry boars
 - Hedgehogs who got too lit
 PCs:

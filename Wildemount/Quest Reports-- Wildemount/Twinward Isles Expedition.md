@@ -1,4 +1,4 @@
-DM: ?
+DM: Max W
 Date: 9/6/25
 In-Universe Date: 
 Location: [[Twinward Isles]]
