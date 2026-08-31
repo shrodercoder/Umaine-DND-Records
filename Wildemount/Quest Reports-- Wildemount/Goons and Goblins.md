@@ -3,7 +3,7 @@ Date: 9/13/25
 In-Universe Date: 
 Location: [[Port Damali]]
 NPCs:
-- White Stone
+- [[White Stone]]
 - Small goblin gang
 PCs:
 - [[Xavier]]

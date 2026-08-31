@@ -8,7 +8,7 @@ NPCs:
 - 7 and a half shovels
 PCs:
 - [[雷神の火の木]]
-- [[Lyrius]]
+- [[Lyrius DECEASED]]
 - [[Guenhyvari]]
 - [[𝔇]]
 - [[Weebil]]

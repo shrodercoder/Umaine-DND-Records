@@ -6,7 +6,7 @@ NPCs:
 - Questgiver
 - Thieving privateers
 PCs:
-- [[Comet Novatalon]]
+- [[Comet Novatalon DECEASED]]
 - [[ZubZub]]
 - [[Violet String]]
 Plot Summary:

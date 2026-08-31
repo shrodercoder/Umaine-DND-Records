@@ -6,7 +6,7 @@ NPCs:
 - [[Monty Curtel]]
 - Dingle?????
 PCs:
-- [[Lumen]]
+- [[Lumen Svet]]
 - [[Kirym]]
 - [[Echo]]
 - [[Zip-Zap]]

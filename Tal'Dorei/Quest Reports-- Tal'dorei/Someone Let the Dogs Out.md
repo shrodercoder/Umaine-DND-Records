@@ -7,7 +7,7 @@ NPCs:
 PCs:
 - [[John Jr]]
 - [[Maxori]]
-- [[Edward]]
+- [[Edward Lake]]
 - [[Tig]]
 - [[Conrad DECEASED]]
 - [[Áine]]

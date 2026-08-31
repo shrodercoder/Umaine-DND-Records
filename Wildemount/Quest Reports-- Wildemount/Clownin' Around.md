@@ -8,7 +8,7 @@ NPCs:
 PCs:
 - [[Fault DECEASED]]
 - [[Lotus DECEASED]]
-- [[Linda]]
+- [[Linda Greymoor]]
 - [[Zada]]
 - [[Spiegal]]
 Plot Summary:

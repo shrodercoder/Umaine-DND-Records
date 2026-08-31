@@ -6,7 +6,7 @@ NPCs:
 - 
 PCs:
 - [[Livrak]]
-- [[Ace]]
+- [[Tace]]
 - [[Asynth DECEASED]]
 - [[Johnny Pineapple DECEASED]]
 - [[VerKong III DECEASED]]
