@@ -15,3 +15,5 @@ PCs:
 Plot Summary:
 **Brief Overview:** The party was hired by White Stone to move his boxes and kill the goblins who blew his leg off with a pipe-bomb. 
 **Important World Impacts:** Small goblin gangs in Port Dismali are growing increasingly restless.
+
+#Menagerie-Coast #Port-Damali #Wildemount 

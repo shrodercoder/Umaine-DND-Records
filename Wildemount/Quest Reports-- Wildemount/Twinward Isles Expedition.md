@@ -15,3 +15,5 @@ Plot Summary:
 **Important World Impacts:**
 - A small temporary Ki'Nau camp will be constructed on the northern tip of the Twinward isles.
 - The lumber and mineral economy of [[Port Damali]] took a large hit from the exploitation of protected resources being introduced to the market. The prices will return to their normal states in a matter of days.
+
+#Wildemount #Menagerie-Coast #Twinward-Isles #Port-Damali 

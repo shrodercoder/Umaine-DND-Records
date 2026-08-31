@@ -11,3 +11,5 @@ PCs:
 Plot Summary:
 **Brief Overview:** Party pulled aside by Guild Leader Emelia 
 **Important World Impacts:** Guild Master Emelia has received a basic understanding of the capabilities of the coinbound
+
+#Wildemount #Menagerie-Coast #Port-Damali #Coinbound 

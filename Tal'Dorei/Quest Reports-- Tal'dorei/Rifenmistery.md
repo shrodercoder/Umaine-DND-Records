@@ -13,6 +13,7 @@ PCs:
 - [[Nym]]
 - [[Xavier]]
 Plot Summary:
-**Brief Overview:** Team Hired to help Kevin the Kobold help farmer Dave with an animal problem **Important World Impacts:** N/A
+**Brief Overview:** Team Hired to help Kevin the Kobold help farmer Dave with an animal problem 
+**Important World Impacts:** N/A
 
-author's note: IM GONNA FUCKING CRASH OUT JUNE
+#taldorei #rifenmist

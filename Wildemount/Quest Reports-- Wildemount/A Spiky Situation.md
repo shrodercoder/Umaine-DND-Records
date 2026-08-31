@@ -13,3 +13,5 @@ PCs:
 Plot Summary:
 **Brief Overview:** The party was hired to accompany a strange potion-making Kenku on his trip from Port Damali to Othe. Along the way they encountered some rampaging boars, a crew of bandits, and some mutated large Hedgehogs high on potion ingredients. Unfortunately, the Hedgehogs decided Comet looked delicious, resulting in the Bards demise, but the rampaging hogs were dispatched soon after. 
 **Important World Impacts:** None
+
+#Wildemount #Port-Damali #Othe #Menagerie-Coast 

@@ -11,3 +11,5 @@ PCs:
 Plot Summary:
 **Brief Overview:** party hired by shady dragonborn and told to attack a caravan in broad daylight. they rolled a 1 on stealth and died 
 **Important World Impacts:** None
+
+#Wildemount #Dwendalia #Dwendalian-Empire #Caravan-Chaos 

@@ -20,3 +20,5 @@ A contract was signed between Glee and the Ferryman. Contract Terms:
 - Glee is allowed to visit the child regularly while at the academy. 
 - Terrance Silovar will be supplied housing and transportation to visit his child Marthus at Soltryce Academy 
 **Important World Impacts:** Glee Voynich and Reza Dreamgrove are now students of the Soltryce Academy after being recruited by a Ferryman. There is also a child of extreme magical power being inducted into the academy.
+
+#Wildemount #Dwendalia #Trostenwald #Soltryce-Academy 

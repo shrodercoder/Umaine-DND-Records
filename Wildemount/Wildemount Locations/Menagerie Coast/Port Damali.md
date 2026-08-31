@@ -31,4 +31,6 @@ Events:
 - [[Let's Kill Some Kobolds!]]
 	- 9/26/25
 	- World Impact: Quest Failure? So they did get the items back and did kill some of the kobolds, but they also didn't fully eliminate them....
-- 
+- [[Sunk Costs]]
+	- 10/2/25
+	- Two members of the pirate crew who were captured and being held by the town guard of Damali were murdered in their sleep by an unknown party.

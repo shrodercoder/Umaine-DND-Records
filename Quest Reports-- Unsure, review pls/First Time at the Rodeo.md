@@ -5,6 +5,7 @@ Location: unsure
 NPCs:
 - Bulls
 - Horses
+- Dead River Rodeo
 PCs:
 - [[Guenhyvari]]
 - [[Spiegal]]

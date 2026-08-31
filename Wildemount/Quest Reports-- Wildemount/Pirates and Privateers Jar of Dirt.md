@@ -12,3 +12,5 @@ PCs:
 Plot Summary:
 **Brief Overview:** hired to n help a pirate steal his jar of dirt back from privateers that pirated it from him 
 **Important World Impacts:** NONE
+
+#Port-Damali #Wildemount #Menagerie-Coast 
