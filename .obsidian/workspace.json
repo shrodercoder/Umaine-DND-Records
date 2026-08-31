@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs/Levels 1-3/Smithers Gerefield.md",
+                "file": "PCs/Levels 10-12/Livrak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Smithers Gerefield"
+              "title": "Livrak"
             }
           }
         ]
@@ -185,8 +185,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "edfe2611a1043bd6",
+  "active": "7f60c5fc565c0fb3",
   "lastOpenFiles": [
+    "PCs/Levels 1-3/Smithers Gerefield.md",
     "PCs/Levels 10-12/Livrak.md",
     "Pasted image 20260831122133.png",
     "PCs/Levels 10-12/Glee Voynich.md",
