@@ -3,7 +3,7 @@ Date: 9/7/25
 In-Universe Date: 
 Location: Will what the fuck were you ON bro
 NPCs:
-- Monty Curtel
+- [[Monty Curtel]]
 - Dingle?????
 PCs:
 - [[Lumen]]

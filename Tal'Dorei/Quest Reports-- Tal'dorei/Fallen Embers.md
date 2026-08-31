@@ -5,7 +5,7 @@ Location:
 NPCs:
 - 
 PCs:
-- [[Virtak]]
+- [[Livrak]]
 - [[Ace]]
 - [[Asynth DECEASED]]
 - [[Johnny Pineapple DECEASED]]

@@ -6,8 +6,8 @@ NPCs:
 - Alexi
 - Mr. Bingles
 PCs:
-- [[Fault]]
-- [[Lotus]]
+- [[Fault DECEASED]]
+- [[Lotus DECEASED]]
 - [[Linda]]
 - [[Zada]]
 - [[Spiegal]]
