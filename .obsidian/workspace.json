@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quest Reports-- Unsure, review pls/Borderlands.md",
+                "file": "PCs/Zolis Windrivver.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Borderlands"
+              "title": "Zolis Windrivver"
             }
           },
           {
@@ -67,7 +67,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -80,8 +80,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "white st",
-                "matchingCase": false,
+                "query": "trade",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wildemount/Wildemount Locations/Menagerie Coast/Tussoa.md",
+                "file": "PCs/Zolis Windrivver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -213,32 +214,32 @@
   },
   "active": "e45c0e81643aebc3",
   "lastOpenFiles": [
-    "Quest Reports-- Unsure, review pls/☆ It's The Same ‘Ol Situation ☆.md",
-    "Wildemount/Wildemount Locations/Pride's Call.md",
-    "Wildemount/Wildemount Locations/Yrrosa.md",
-    "Wildemount/Wildemount Locations/Wildemount.md",
-    "Wildemount/Wildemount Locations/Trostenwald.md",
-    "Wildemount/Quest Reports-- Wildemount/The Lantern and The Plow.md",
-    "Wildemount/Quest Reports-- Wildemount/Demanded Migration.md",
-    "Templates/Quest Template.md",
-    "Wildemount/Quest Reports-- Wildemount/A Spiky Situation.md",
-    "Wildemount/Wildemount Locations/Menagerie Coast/Othe.md",
-    "PCs/Zolis Windrivver.md",
-    "PCs/Comet Novatalon DECEASED.md",
     "Tal'Dorei/Quest Reports-- Tal'dorei/Fallen Embers.md",
-    "PCs/someone help pls i cant find them/Tace.md",
-    "Wildemount/Quest Reports-- Wildemount/Let's Kill Some Kobolds!.md",
-    "Quest Reports-- Unsure, review pls/First Time at the Rodeo.md",
-    "Wildemount/Quest Reports-- Wildemount/Bring out Ye Dead.md",
-    "PCs/Edward Lake.md",
-    "Wildemount/Quest Reports-- Wildemount/Take This!.md",
-    "Wildemount/Quest Reports-- Wildemount/Goons and Goblins.md",
-    "Tal'Dorei/Quest Reports-- Tal'dorei/Rifenmistery.md",
-    "Tal'Dorei/Quest Reports-- Tal'dorei/Someone Let the Dogs Out.md",
-    "Wildemount/Quest Reports-- Wildemount/Roads Go Ever Ever On.md",
+    "PCs/Deceased/Asynth DECEASED.md",
+    "PCs/Deceased/Comet Novatalon DECEASED.md",
+    "PCs/Deceased/Conrad DECEASED.md",
+    "PCs/Deceased/Fault DECEASED.md",
+    "PCs/Deceased/Gabba Goul DECEASED.md",
+    "PCs/Deceased/Johnny Pineapple DECEASED.md",
+    "PCs/Deceased/Lyrius DECEASED.md",
+    "PCs/Deceased/Lotus DECEASED.md",
+    "Wildemount/Quest Reports-- Wildemount/A Pain Train™ Sequel, Caravan Chaos™ no.1 Back In The Saddle X.md",
     "Wildemount/Quest Reports-- Wildemount/Trade Time Troubles.md",
-    "PCs/Lyrius DECEASED.md",
-    "PCs/Linda Greymoor.md",
+    "Wildemount/Quest Reports-- Wildemount/Eviction Notice.md",
+    "Quest Reports-- Unsure, review pls/Borderlands.md",
+    "Wildemount/Quest Reports-- Wildemount/Toy Chest.md",
+    "Quest Reports-- Unsure, review pls/Rockaria!.md",
+    "Wildemount/Quest Reports-- Wildemount/Goons and Goblins.md",
+    "Wildemount/Quest Reports-- Wildemount/I Looked Away for a Second.md",
+    "Wildemount/Wildemount Locations/Menagerie Coast/Port Damali.md",
+    "Wildemount/Quest Reports-- Wildemount/Thieves in the Mist.md",
+    "Wildemount/Quest Reports-- Wildemount/They Rise Again.md",
+    "Wildemount/Quest Reports-- Wildemount/Let's Kill Some Goblins!.md",
+    "Wildemount/Quest Reports-- Wildemount/Cat's Out of the Bag.md",
+    "Tal'Dorei/Quest Reports-- Tal'dorei/Someone Let the Dogs Out.md",
+    "Wildemount/Quest Reports-- Wildemount/A Simple Rat Problem.md",
+    "Quest Reports-- Unsure, review pls/Time Flies when you're having Frog.md",
+    "Quest Reports-- Unsure, review pls/Night at the Museum.md",
     "Wildemount/Wildemount Locations/Xhorhas",
     "images",
     "images/Port_Damali 1.webp",

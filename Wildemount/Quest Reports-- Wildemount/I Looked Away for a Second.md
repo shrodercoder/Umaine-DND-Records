@@ -1,5 +1,5 @@
 DM: Jacob O
-Date: 9/18/25
+Date: 9/16/25
 In-Universe Date: 
 Location: [[Bazzoxan]]
 NPCs:

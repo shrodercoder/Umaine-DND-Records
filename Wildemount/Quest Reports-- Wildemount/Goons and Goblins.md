@@ -1,5 +1,5 @@
 DM: Curtis T
-Date: 9/13/25
+Date: 9/14/25
 In-Universe Date: 
 Location: [[Port Damali]]
 NPCs:

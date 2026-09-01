@@ -1,5 +1,5 @@
 DM: June M
-Date: 9/10/25
+Date: 9/6/25
 In-Universe Date: 
 Location: june nooooo please girl have mercy on me. I think probably port damali?
 NPCs:

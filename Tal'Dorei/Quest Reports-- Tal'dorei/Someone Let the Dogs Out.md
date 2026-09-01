@@ -1,5 +1,5 @@
 DM: June M
-Date: 9/11/25
+Date: 9/10/25
 In-Universe Date: 
 Location: [[Tal'dorei]]
 NPCs:

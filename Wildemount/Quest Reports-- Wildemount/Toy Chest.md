@@ -1,5 +1,5 @@
 DM: Will K
-Date: 9/15/25
+Date: 9/12/25
 In-Universe Date: 
 Location: [[Menagerie Coast]]
 NPCs:

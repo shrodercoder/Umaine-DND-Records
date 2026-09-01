@@ -1,5 +1,5 @@
 DM: Dylan G
-Date: 9/18/25
+Date: 9/17/25
 In-Universe Date: 
 Location: dunooooo dylan help please
 NPCs:

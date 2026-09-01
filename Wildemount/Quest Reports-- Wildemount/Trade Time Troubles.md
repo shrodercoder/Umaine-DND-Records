@@ -1,5 +1,5 @@
 DM: Sam M
-Date: 9/18/25
+Date: 9/16/25
 In-Universe Date: 
 Location: [[Menagerie Coast]]
 NPCs:

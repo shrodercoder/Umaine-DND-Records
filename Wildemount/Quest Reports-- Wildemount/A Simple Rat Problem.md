@@ -1,5 +1,5 @@
 DM: Jasmine M
-Date: 9/11/25
+Date: 9/9/25
 In-Universe Date: 
 Location: [[Port Damali]]
 NPCs:

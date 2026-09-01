@@ -1,5 +1,5 @@
 DM: Sam M
-Date: 9/14/25
+Date: 9/11/25
 In-Universe Date: 
 Location: [[Port Damali]]?
 NPCs: 

@@ -1,5 +1,5 @@
 DM: June M
-Date: 9/18/25
+Date: 9/14/25
 In-Universe Date: 
 Location: Possibly Marquet
 NPCs:

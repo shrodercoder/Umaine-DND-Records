@@ -1,5 +1,5 @@
 DM: Kevin Y
-Date: 9/6/25
+Date: 9/5/25
 In-Universe Date: 
 Location:  [[Port Damali]]
 NPCs:
