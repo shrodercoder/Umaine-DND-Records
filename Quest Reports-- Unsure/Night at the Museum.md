@@ -1,7 +1,7 @@
 DM: Ben
 Date: 9/7/25
 In-Universe Date: 
-Location: bennnn put your fucking locations in ur quests i swear to GOD
+Location: Port Damali
 NPCs:
 - Galeb Duhr
 - Mr. Max
