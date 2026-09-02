@@ -1,4 +1,4 @@
-Primary DM:
+Primary DM: Owen M
 Lore Summary:
 PC members:
 Notable NPC members:
