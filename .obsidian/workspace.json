@@ -8,41 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "503718996852cc52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Quest Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quest Template"
-            }
-          },
-          {
-            "id": "e45c0e81643aebc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCs/Zolis Windrivver.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zolis Windrivver"
-            }
-          },
-          {
             "id": "0edfe2b5f122112a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "images/Othe Images.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Othe Images"
+            }
+          },
+          {
+            "id": "9443a5be811103e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PCs/Tace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tace"
+            }
+          },
+          {
+            "id": "4f2069e51a2383df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Location Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Location Template"
+            }
+          },
+          {
+            "id": "734c9040b95d56b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PCs/Deceased/Comet Novatalon DECEASED.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comet Novatalon DECEASED"
             }
           }
         ],
@@ -80,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trade",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,48 +230,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "e45c0e81643aebc3",
+  "active": "9443a5be811103e6",
   "lastOpenFiles": [
-    "Tal'Dorei/Quest Reports-- Tal'dorei/Fallen Embers.md",
-    "PCs/Deceased/Asynth DECEASED.md",
-    "PCs/Deceased/Comet Novatalon DECEASED.md",
-    "PCs/Deceased/Conrad DECEASED.md",
-    "PCs/Deceased/Fault DECEASED.md",
-    "PCs/Deceased/Gabba Goul DECEASED.md",
-    "PCs/Deceased/Johnny Pineapple DECEASED.md",
-    "PCs/Deceased/Lyrius DECEASED.md",
-    "PCs/Deceased/Lotus DECEASED.md",
-    "Wildemount/Quest Reports-- Wildemount/A Pain Train™ Sequel, Caravan Chaos™ no.1 Back In The Saddle X.md",
-    "Wildemount/Quest Reports-- Wildemount/Trade Time Troubles.md",
-    "Wildemount/Quest Reports-- Wildemount/Eviction Notice.md",
-    "Quest Reports-- Unsure, review pls/Borderlands.md",
-    "Wildemount/Quest Reports-- Wildemount/Toy Chest.md",
-    "Quest Reports-- Unsure, review pls/Rockaria!.md",
-    "Wildemount/Quest Reports-- Wildemount/Goons and Goblins.md",
-    "Wildemount/Quest Reports-- Wildemount/I Looked Away for a Second.md",
-    "Wildemount/Wildemount Locations/Menagerie Coast/Port Damali.md",
-    "Wildemount/Quest Reports-- Wildemount/Thieves in the Mist.md",
-    "Wildemount/Quest Reports-- Wildemount/They Rise Again.md",
-    "Wildemount/Quest Reports-- Wildemount/Let's Kill Some Goblins!.md",
-    "Wildemount/Quest Reports-- Wildemount/Cat's Out of the Bag.md",
-    "Tal'Dorei/Quest Reports-- Tal'dorei/Someone Let the Dogs Out.md",
-    "Wildemount/Quest Reports-- Wildemount/A Simple Rat Problem.md",
-    "Quest Reports-- Unsure, review pls/Time Flies when you're having Frog.md",
-    "Quest Reports-- Unsure, review pls/Night at the Museum.md",
-    "Wildemount/Wildemount Locations/Xhorhas",
-    "images",
+    "Joel Van Morrison.md",
+    "Templates/Player Template.md",
+    "images/Othe Images.md",
+    "Characters",
+    "Locations",
+    "images/Map of Wildemount.md",
+    "images/Feolinn Images.md",
+    "images/Blade Garden images.md",
+    "Pasted image 20260902154016.png",
+    "Locations/Wildemount/Wildemount Locations/Eastern Dwendalia/Blade Garden.md",
+    "Locations/Wildemount/Wildemount Locations/Menagerie Coast/Feolinn.md",
+    "images/Pasted image 20260902152948.png",
+    "images/Pasted image 20260902152936.png",
+    "Templates/Location Template.md",
+    "Characters/PCs/Deceased/Comet Novatalon DECEASED.md",
+    "Characters/PCs/Deceased/Asynth DECEASED.md",
+    "Characters/PCs/Deceased/Lotus DECEASED.md",
+    "Characters/PCs/Deceased/Johnny Pineapple DECEASED.md",
+    "Characters/PCs/Deceased/Lyrius DECEASED.md",
+    "Characters/PCs/Deceased/Gabba Goul DECEASED.md",
+    "Characters/PCs/Deceased/Fault DECEASED.md",
+    "Characters/PCs/Deceased/Conrad DECEASED.md",
+    "Characters/PCs/Livrak.md",
+    "Templates/Quest Template.md",
+    "Locations/Wildemount/Wildemount Locations/Southeastern Dwendalia/Trostenwald.md",
+    "Locations/Wildemount/Wildemount Locations/Southeastern Dwendalia/Felderwin.md",
+    "Locations/Wildemount/Wildemount Locations/Southeastern Dwendalia",
+    "Locations/Wildemount/Wildemount Locations/South west Dwendalia/Zadash.md",
+    "Locations/Wildemount/Wildemount Locations/South west Dwendalia",
+    "Locations/Wildemount/Wildemount Locations/Northwest Dwendalia/Yrrosa.md",
+    "Locations/Wildemount/Wildemount Locations/Northwest Dwendalia/Pride's Call.md",
+    "Locations/Wildemount/Wildemount Locations/Northwest Dwendalia",
+    "Locations/Wildemount/Wildemount Locations/Northern Dwendalia/Rexxentrum.md",
+    "Locations/Wildemount/Wildemount Locations/Northern Dwendalia",
+    "images/Pasted image 20260831165544.png",
+    "images/Pasted image 20260831150723.png",
+    "Locations/Wildemount/Wildemount Locations/Xhorhas/Bazzoxan.md",
+    "Locations/Wildemount/Wildemount Locations/Xhorhas",
+    "Quest Reports-- Unsure, review pls",
+    "Characters/NPCs/Factions",
+    "Quest Reports-- Unsure",
+    "Pasted image 20260831122133.png",
     "images/Port_Damali 1.webp",
     "images/Damali_Revision_4 1.jpg",
     "Damali_Revision_4.jpg",
-    "Port_Damali.webp",
-    "Wildemount/Wildemount Locations/Menagerie Coast",
-    "images/Wildemount_Poster_Map.webp",
-    "Wildemount/Wildemount Locations",
-    "Wildemount/Wildemount Lore",
-    "PCs/someone help pls i cant find them",
-    "githubkey.pub",
-    "githubkey",
-    "Wildemount/Quest Reports-- Wildemount",
-    "Wildemount"
+    "Port_Damali.webp"
   ]
 }
