@@ -5,7 +5,7 @@ Location: [[Tal'dorei]]
 NPCs:
 - Warlock
 PCs:
-- [[Livrak]]
+- [[Characters/PCs/Livrak]]
 - [[TAce]]
 - [[Asynth DECEASED]]
 - [[Johnny Pineapple DECEASED]]

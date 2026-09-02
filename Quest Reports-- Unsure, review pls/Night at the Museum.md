@@ -9,7 +9,7 @@ NPCs:
 PCs:
 - [[Kara]]
 - [[Reza]]
-- [[Glee Voynich]]
+- [[Characters/PCs/Glee Voynich]]
 - [[Fling]]
 - [[Diego Antonio]]
 Plot Summary:

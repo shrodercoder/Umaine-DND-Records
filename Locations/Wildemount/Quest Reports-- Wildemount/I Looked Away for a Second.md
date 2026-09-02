@@ -6,7 +6,7 @@ NPCs:
 - Drow siblings
 PCs:
 - [[Nym]]
-- [[Livrak]]
+- [[Characters/PCs/Livrak]]
 - [[ZubZub]]
 - [[Myn]] (fake name, figure out the real one)
 - [[Daphy]]

@@ -8,7 +8,7 @@ NPCs:
 PCs:
 - [[John Jr]]
 - [[Alton]]
-- [[Livrak]]
+- [[Characters/PCs/Livrak]]
 - [[Tig]]
 - [[Jackie Kong]]
 - [[Craig]]

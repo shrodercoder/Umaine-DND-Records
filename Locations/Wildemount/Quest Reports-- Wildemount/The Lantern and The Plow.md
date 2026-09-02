@@ -6,7 +6,7 @@ NPCs:
 - Ferryman
 - [[Soltryce Academy]]
 PCs:
-- [[Glee Voynich]]
+- [[Characters/PCs/Glee Voynich]]
 - [[Kirym]]
 - [[Reza]]
 - [[Ahkran]]

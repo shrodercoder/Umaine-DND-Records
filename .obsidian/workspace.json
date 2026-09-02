@@ -4,67 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "866667db88a90a66",
+        "id": "369f429d9595b515",
         "type": "tabs",
         "children": [
           {
-            "id": "0edfe2b5f122112a",
+            "id": "55d2a9c32b990dcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "images/Othe Images.md",
+                "file": "Locations/Wildemount/Wildemount Locations/Wildemount.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Othe Images"
+              "title": "Wildemount"
             }
           },
           {
-            "id": "9443a5be811103e6",
+            "id": "55f7988b2bf7125f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PCs/Tace.md",
+                "file": "Templates/Player Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tace"
+              "title": "Player Template"
             }
           },
           {
-            "id": "4f2069e51a2383df",
+            "id": "7ea6a4b962fa15bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Location Template.md",
+                "file": "Character Wikis/Dodaro Wiki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Location Template"
+              "title": "Dodaro Wiki"
             }
           },
           {
-            "id": "734c9040b95d56b6",
+            "id": "11a7d1b868cc6c51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PCs/Deceased/Comet Novatalon DECEASED.md",
+                "file": "Characters/PCs/Joel Van Morrison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comet Novatalon DECEASED"
+              "title": "Joel Van Morrison"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "trade",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,50 +232,49 @@
   },
   "active": "edfe2611a1043bd6",
   "lastOpenFiles": [
-    "Pasted image 20260831122133.png",
-    "PCs/Levels 10-12/Glee Voynich.md",
-    "PCs/Levels 10-12/Livrak.md",
-    "PCs/Levels 1-3/TAce.md",
-    "PCs/Levels 10-12",
-    "PCs/Levels 1-3",
-    "PCs",
-    "Joel Van Morrison.md",
+    "images/Joel Images.md",
+    "images/Pasted image 20260902163224.png",
+    "Characters/PCs/Joel Van Morrison.md",
+    "images/Jorge Images.md",
+    "images/Dodaro Images.md",
+    "Characters/PCs/Dodaro.md",
+    "images/Pasted image 20260902163134.png",
+    "images/Pasted image 20260902163123.png",
+    "Characters/PCs/Deceased/Jorge Ramalo DECEASED.md",
+    "images/Pasted image 20260902163040.png",
+    "images/Pasted image 20260902163004.png",
+    "Character Wikis/Dodaro Wiki.md",
     "Templates/Player Template.md",
-    "images/Othe Images.md",
-    "Characters",
-    "Locations",
-    "images/Map of Wildemount.md",
-    "images/Feolinn Images.md",
-    "images/Blade Garden images.md",
-    "Pasted image 20260902154016.png",
-    "Locations/Wildemount/Wildemount Locations/Eastern Dwendalia/Blade Garden.md",
-    "Locations/Wildemount/Wildemount Locations/Menagerie Coast/Feolinn.md",
+    "images/Pasted image 20260902154016.png",
+    "images/Pasted image 20260831122133.png",
+    "Character Wikis/Livrak Wiki.md",
+    "Character Wikis/Joel Wiki.md",
+    "Characters/PCs/Livrak.md",
+    "PCs/Levels 1-3/TAce.md",
+    "PCs/Glee Voynich.md",
+    "PCs/Livrak.md",
+    "Character Wikis/Jorge Wiki.md",
+    "Character Wikis",
+    "Characters/PCs/Linda Greymoor.md",
+    "Characters/PCs/Glee Voynich.md",
+    "Characters/PCs/Dobin Longfang.md",
+    "Locations/Wildemount/Wildemount Locations/Wildemount.md",
+    "Characters/PCs/Daphy.md",
+    "Locations/Wildemount/Wildemount Locations/Northwest Dwendalia/Pride's Call.md",
+    "Locations/Wildemount/Wildemount Locations/Northwest Dwendalia/Yrrosa.md",
+    "Locations/Wildemount/Wildemount Locations/Northwest Dwendalia",
+    "Locations/Wildemount/Wildemount Locations/Northern Dwendalia/Rexxentrum.md",
+    "Locations/Wildemount/Wildemount Locations/Northern Dwendalia",
+    "Locations/Wildemount/Wildemount Locations/Menagerie Coast/Twinward Isles.md",
+    "Locations/Wildemount/Wildemount Locations/Menagerie Coast/Tussoa.md",
+    "Locations/Wildemount/Wildemount Locations/Menagerie Coast",
+    "Locations/Tal'Dorei/Tal'Dorei Locations",
+    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei",
+    "Locations/Tal'Dorei",
     "images/Pasted image 20260902152948.png",
     "images/Pasted image 20260902152936.png",
-    "Templates/Location Template.md",
-    "Characters/PCs/Deceased/Comet Novatalon DECEASED.md",
-    "Characters/PCs/Deceased/Asynth DECEASED.md",
-    "Characters/PCs/Deceased/Lotus DECEASED.md",
-    "Characters/PCs/Deceased/Johnny Pineapple DECEASED.md",
-    "Characters/PCs/Deceased/Lyrius DECEASED.md",
-    "Characters/PCs/Deceased/Gabba Goul DECEASED.md",
-    "Characters/PCs/Deceased/Fault DECEASED.md",
-    "Characters/PCs/Deceased/Conrad DECEASED.md",
-    "Characters/PCs/Livrak.md",
-    "Templates/Quest Template.md",
-    "Locations/Wildemount/Wildemount Locations/Southeastern Dwendalia/Trostenwald.md",
-    "Locations/Wildemount/Wildemount Locations/Southeastern Dwendalia/Felderwin.md",
-    "Locations/Wildemount/Wildemount Locations/Southeastern Dwendalia",
-    "Locations/Wildemount/Wildemount Locations/South west Dwendalia/Zadash.md",
-    "Locations/Wildemount/Wildemount Locations/South west Dwendalia",
-    "Locations/Wildemount/Wildemount Locations/Northwest Dwendalia",
-    "Locations/Wildemount/Wildemount Locations/Northern Dwendalia",
-    "images/Pasted image 20260831165544.png",
-    "images/Pasted image 20260831150723.png",
     "Locations/Wildemount/Wildemount Locations/Xhorhas",
-    "images/Port_Damali 1.webp",
-    "images/Damali_Revision_4 1.jpg",
-    "Damali_Revision_4.jpg",
-    "Port_Damali.webp"
+    "Locations/Wildemount/Wildemount Locations/Southeastern Dwendalia",
+    "Locations/Wildemount/Wildemount Locations/South west Dwendalia"
   ]
 }

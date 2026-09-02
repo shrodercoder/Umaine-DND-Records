@@ -7,7 +7,7 @@ NPCs:
 PCs:
 - [[ADAM]]
 - [[Siegfried]]
-- [[Livrak]]
+- [[Characters/PCs/Livrak]]
 - [[𝔇]]
 - [[Linda Greymoor]]
 - [[Jackie Kong]]
