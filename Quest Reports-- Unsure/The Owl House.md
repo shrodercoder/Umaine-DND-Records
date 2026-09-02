@@ -1,0 +1,10 @@
+---
+Name: "The Owl House"
+Type: "Encounter"
+CR: "Cr 3-> 4"
+Party Details: "â€¢ Kevin Y, Sir Thaddeus Greytrunk, Loxodon, Fighter 1 -> Battle Master Fighter 3\n\nâ€¢ Cyrus F, Woodrow Hayes, Half-Elf (base), Tome Warlock, Level 4 -> 5\n\nâ€¢ Sophie W, Tuatha Danann, Owlin, Archfey Warlock/Bard, Level 3 -> 4\n\nâ€¢ Eugene S, Ransom, Glasya Tiefling, Rogue 2/Hexblade Warlock 1 -> Swashbuckler Rogue 3/Hexblade Warlock 1\n\nâ€¢ Dylan G, Jorge Romalo, Human (Generic), Glory Paladin 4 -> 5"
+Brief Overview: "Party hired by a young merchant in Port Damali who had a ring stolen by an owl. They soon realized that owls were stealing random things from people along that street, with one of the party members even having a hat stolen when they were not looking. They managed to find where all the owls were going after encountering some giant ones, and found a old woman hoarder that adamantly denied having stolen anything while also wearing the stolen hat. Refused to give back the items and fighting ensued. Some cat/owl creatures came out to help her, and while trying to intimidate the old lady one of the adventurers accidently set fire to her house filled with junk. Some baby cat/owl creatures were stuck in the building, with one of the party managing to get them out. Some giant owls came and put out the fire during the fight so I did not burn down Port Damali my first encounter! They managed to either fight off or befriend the creatures and stopped the old lady before she could run away with valuables. They gave her a stern warning and took all her stolen jewelry away before she skittered off."
+Important World Impacts: "Owl lady on the loose, maybe reformed, and one partially burnt building on the edge of the Tumble Downs."
+Rewards: "â€¢ 1900 exp +400 gp per player except Jorge (+25 gp to Ransom from keeping stolen jewelry)\n\nâ€¢ Jorge got 300 gp, and one uncommon monster part worth 100 gp"
+Optional Observations: "Maybe don't do a luck check on how flammable the house is and roll a 1"
+---

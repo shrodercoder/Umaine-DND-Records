@@ -1,0 +1,10 @@
+---
+Name: "Taken"
+Type: "Encounter"
+CR: 4
+Party Details: "(\\No level changes)\n\nâ€¢ Owen T, Lux, Half-Elf, Barbarian 2/Rogue 3\\\n\nâ€¢ Dylan L.S., Peple, Bugbear, Cleric 4\\\n\nâ€¢ Robert K, Aglyph, Drew, Bard 5\\\n\nâ€¢ Degan H, Sparkplug, Warforged, Artificer 1 -> 3\n\nâ€¢ Ryan R, Siegfried, Gold Dragonborn, Paladin 4 -> 5\n\nâ€¢ Eryn F, Folsen, Tiefling, Druid 4\\\n\nâ€¢ Aiden C, Cinder Block, Fighter 1 -> 3\n\nâ€¢ Zachary Wolfe, Calâ€™Van, Drow, Rogue 4\\\n\nâ€¢ Jeffrey, Robin, Base Human, Monk 5\\"
+Brief Overview: "Mr White Stone hired the party of eight to rescue Peple from the clutches of Judge Dredd, who had captured them. Before the quest even began, Judge Dredd turned to coin-bound Lux to go on the quest and kill him in exchange for an item of his choosing. Lux hired two additional coin-bound who were active on the quest to participate in the betrayal. The party was split into two groups, excluding Peple; One to prevent a legion of Strongarms from making their way to Judge Dredd by extension, Peple, and one group group to track down where Judge Dredd was located. The group tracking down Judge Dredd made their way to the scene of a crime, where a group of city guards were patrolling. They evaded the guard and managed to investigate the scene to find the direction of the Judge."
+Important World Impacts: "The increased open ferocity by the gangs has alerted the presence of the Town Guard. The gangs continue fighting, and the stupid members of the gang will be killed off in the background while the masterminds of the gangs continue to plot. For the time being, the gang wars have stopped. More on this when players hit level 10+."
+Rewards: "-- Wraps of Unarmed Prowess, +1\n\n   -- Rapier, +1\n\n   -- Adamantine Plate"
+Optional Observations: "Robin Freehands has expressed interested in joining the Myraid. Also, Lux is really strong early game, damn. Remind me to run more slimes."
+---
