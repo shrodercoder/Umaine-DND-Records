@@ -6,7 +6,7 @@ NPCs:
 - Warlock
 PCs:
 - [[Livrak]]
-- [[Tace]]
+- [[TAce]]
 - [[Asynth DECEASED]]
 - [[Johnny Pineapple DECEASED]]
 - [[VerKong III DECEASED]]
