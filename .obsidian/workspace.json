@@ -11,6 +11,98 @@
             "id": "7f60c5fc565c0fb3",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Wildemount/Wildemount Locations/Wildemount.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wildemount"
+            }
+          },
+          {
+            "id": "55f7988b2bf7125f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/Factions/Motley Crue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Motley Crue"
+            }
+          },
+          {
+            "id": "50be18d3a30a189e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/Factions/Iron Authority.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iron Authority"
+            }
+          },
+          {
+            "id": "a4e693cfca573629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Quest Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quest Template"
+            }
+          },
+          {
+            "id": "974f53ddcf079be9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "7ea6a4b962fa15bd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "11a7d1b868cc6c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Faction Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Faction Template"
+            }
+          }
+        ],
+        "currentTab": 4
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
@@ -183,53 +275,51 @@
       "bases:Create new base": false
     }
   },
-  "active": "7f60c5fc565c0fb3",
+  "active": "974f53ddcf079be9",
   "lastOpenFiles": [
+    "Templates/Quest Template.md",
+    "Untitled.md",
+    "Untitled",
+    "Characters/PCs/Player Factions/Order of the Oaths.md",
+    "Characters/NPCs/Factions/Iron Authority.md",
+    "Characters/PCs/Player Factions",
+    "Templates/Faction Template.md",
+    "Characters/NPCs/Factions/Dwendalian Empire.md",
+    "Characters/NPCs/Factions/Scarlet Wing.md",
+    "Characters/NPCs/Factions/Motley Crue.md",
+    "Characters/PCs/Joel Van Morrison.md",
+    "Character Wikis/Livrak Wiki.md",
+    "Templates/Player Template.md",
+    "Character Wikis/Dodaro Wiki.md",
+    "images/Joel Images.md",
     "images/Pasted image 20260902163224.png",
+    "images/Jorge Images.md",
+    "images/Dodaro Images.md",
+    "Characters/PCs/Dodaro.md",
     "images/Pasted image 20260902163134.png",
     "images/Pasted image 20260902163123.png",
     "images/Pasted image 20260902163040.png",
     "images/Pasted image 20260902163004.png",
     "images/Pasted image 20260902154016.png",
-    "Tal'Dorei/Quest Reports-- Tal'dorei/Fallen Embers.md",
+    "images/Pasted image 20260831122133.png",
+    "Character Wikis/Joel Wiki.md",
+    "Characters/PCs/Livrak.md",
+    "PCs/Levels 1-3/TAce.md",
+    "PCs/Glee Voynich.md",
+    "PCs/Livrak.md",
+    "Character Wikis/Jorge Wiki.md",
+    "Character Wikis",
+    "Characters/PCs/Linda Greymoor.md",
+    "Characters/PCs/Glee Voynich.md",
+    "Characters/PCs/Dobin Longfang.md",
+    "Locations/Wildemount/Wildemount Locations/Northwest Dwendalia",
+    "Locations/Wildemount/Wildemount Locations/Northern Dwendalia",
+    "Locations/Wildemount/Wildemount Locations/Menagerie Coast",
+    "Locations/Tal'Dorei/Tal'Dorei Locations",
+    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei",
+    "Locations/Tal'Dorei",
     "images/Pasted image 20260902152948.png",
     "images/Pasted image 20260902152936.png",
-    "images/Pasted image 20260831165544.png",
-    "images/Pasted image 20260831150723.png",
-    "images/Pasted image 20260831122133.png",
-    "images/Othe Images.md",
-    "images/Jorge Images.md",
-    "images/Joel Images.md",
-    "images/Feolinn Images.md",
-    "images/Dodaro Images.md",
-    "images/Blade Garden images.md",
-    "Templates/Faction Template.md",
-    "Quest Reports-- Unsure, review pls/â˜† It's The Same â€˜Ol Situation â˜†.md",
-    "Quest Reports-- Unsure, review pls/Who Can It Be Now.md",
-    "Quest Reports-- Unsure, review pls/What Waits in the Woods.md",
-    "Quest Reports-- Unsure, review pls/Welcome to Damali.md",
-    "Quest Reports-- Unsure, review pls/Weekend at Bingles.md",
-    "Quest Reports-- Unsure, review pls/WHO TOUCHA MY SPAGHET.md",
-    "Quest Reports-- Unsure, review pls/Twinward Isles Expedition.md",
-    "Quest Reports-- Unsure, review pls/Trade Time Troubles.md",
-    "Quest Reports-- Unsure, review pls/Toy Chest.md",
-    "Quest Reports-- Unsure, review pls/Top Gun.md",
-    "Quest Reports-- Unsure, review pls/Time Flies when you're having Frog.md",
-    "Quest Reports-- Unsure, review pls/Tidebreaker.md",
-    "Quest Reports-- Unsure, review pls/Thieves in the Mist.md",
-    "Quest Reports-- Unsure, review pls/They Rise Again.md",
-    "Quest Reports-- Unsure, review pls/There is no Trouble in the Rifenmist Jungle.md",
-    "Quest Reports-- Unsure, review pls/Them Thar Hills.md",
-    "Quest Reports-- Unsure, review pls/The marks.md",
-    "Quest Reports-- Unsure, review pls",
-    "Locations/Wildemount/Wildemount Locations/Xhorhas",
-    "Locations/Wildemount/Wildemount Locations/Southeastern Dwendalia",
-    "Locations/Wildemount/Wildemount Locations/South west Dwendalia",
-    "Locations/Wildemount/Wildemount Locations/Northwest Dwendalia",
-    "Locations/Wildemount/Wildemount Locations/Menagerie Coast",
-    "Locations/Wildemount/Wildemount Locations/Northern Dwendalia",
-    "Locations/Wildemount/Wildemount Locations/Eastern Dwendalia",
-    "Locations/Tal'Dorei/Tal'Dorei Locations",
-    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei"
+    "Locations/Wildemount/Wildemount Locations/Xhorhas"
   ]
 }
