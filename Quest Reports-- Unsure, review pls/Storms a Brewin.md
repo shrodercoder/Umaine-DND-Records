@@ -1,0 +1,10 @@
+---
+Name: "Storms a Brewin"
+Type: "Encounter (2 sessions)"
+CR: "5 --> 6"
+Party Details: "â€¢ Matt F, Jackie kong,  hadozee monk 5\n\nâ€¢ Eric L, Edward Lake, Warforged, Vengeance Paladin level 5->5\n\nâ€¢ Lexi F, Daphy, Kobold, Life cleric 5 -> 5\n\nâ€¢ Chris L, F'roshe, Grung, Giant Barbarian lvl 4 -> no change\n\nâ€¢ BRIT S, DAME ELIZABETH HUMAN BATTLEMASTER FIGHTER LVL 5 ENDING AT LVL 5\n\nâ€¢ Skyler G., Seekyr, Kobold, Armorer Artificer 3 + Evocation Wizard 2 -> Armorer Artificer 3 + Evocation Wizard 2\n\nâ€¢ Zak B, John Exandria (Mr. Worldwide), Variant Human, 1 Rogue + 1 Blood Hunter + 1 Knowledge Cleric + 1 Ranger + 1 Wizard => NC\n\nâ€¢ Anton D, Cedric Burrowheim, Owlin, Wizard (order of scribes) lvl5->NC"
+Brief Overview: "Party was hired by Henrik, freelance captain and former contractee for Vermillion to visit an old friend, the village chief of Laiden's Landing on the Menagerie Coast. A two day journey and some funny fishing later, the party arrived at the village and met the chief Lomas, who was guarding a mysterious box. Freelance mercenaries hired by Vermillion arrived and engaged in combat, but after a couple of mercenaries died they surrendered. At that point, three pirate ships attacked the coast and the party fled after defeating several crew members from one of the vessels. The party encountered funny undead man (Relesar) and very much not funny undead pirate lady (Charity), the latter of which retrieved the box. The villagers undertook to rebuilding the damage and Henrik paid the party for their help."
+Important World Impacts: "Undead crew gets one more piece of the ship's wheel. Village was severly damaged but is able to rebuild."
+Rewards: "- 1x Positive Contact with Henrik, Lomas (Village Chief)\n\n- 1x Positive Contact with Rialla (Everyone Besides Seekyr and Froche)\n\n- 1x Positive Contact with Aryiana (Elizabeth)\n\n- 1x Positive Contact with Tom (Child) (Elizabeth, John)"
+Optional Observations: "Fantastic party, Edward is actually kind of chill, I made a player cry (but in a good way)"
+---

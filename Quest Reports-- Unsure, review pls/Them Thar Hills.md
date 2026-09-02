@@ -1,0 +1,10 @@
+---
+Name: "Them Thar Hills"
+Type: "Encounter"
+CR: 5
+Party Details: "â€¢ Dylan G, Warren Monger, Drow, Fighter 2/ Wizard 1 -> NC\n\nâ€¢ Logan G, Fling, Aasimar, Ranger Horizon Walker Level 5 -> NC\n\nâ€¢ Dom J, Guenhyvari, Shadar-Kai, Hexblade Warlock Level 5->no change, no deal\n\nâ€¢ Chris L, Raiju, Tabaxi, Storm Sorcerer lvl 3 Tempest Cleric lvl 1 -> NC Took deal \n\nâ€¢ Sophie W, Linda, V. Human, Phantom Rogue 5 --> NC (took the deal)\n\nAustin M L, bugbear, Armorer artificer lvl 5 --> no change took deal\n\nJustin C, Carter, Wood elf, Circle of Spore Druid lvl4 --> lvl 5 (took deal)"
+Brief Overview: "The Party was hired by the mysterious cowboy Okko to investigate traces of gold found in borderlands between Hellcatch Valley and Rumedam Desert. The party traveled through the desert and found tracks containing gold dust. The party followed them into foothills of the Aggrad Mountains and found a cave. They entered the cave and at the end of it they found a cavern filled with large gold veins. After investigating they realized that there was likely even more gold than was on the surface of the cave, at which point they were attacked by the Xorn guarding the gold. The Xorn was quickly defeated and the party rested at the mouth of the cave, knowing they had been followed there by a desert tribesman. Despite this knowledge they proceed to their exit point without paying any attention to their surroundings and so were ambushed by Sand Veil raiders. After a tense battle one raider was killed and the rest fled badly injured. The party met up with Okko who gave them their reward and a little extra to any of who spread the word of the gold."
+Important World Impacts: "A large gold source has been discovered near the mountain that juts out into Hellcatch Valley and Rumedam Desert. Word of the gold is being spread and mining attempts are likely."
+Rewards: "â€¢ 1500 exp + 560 gp per player (10 extra for those who took the deal)"
+Optional Observations: "Eversmoking bottle is really good"
+---

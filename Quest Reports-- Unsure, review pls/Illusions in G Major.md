@@ -1,0 +1,10 @@
+---
+Name: "Illusions in G Major"
+Type: "Encounter"
+CR: 3
+Party Details: "â€¢ Curtis T, Blast Marksmen, Variant Human, Fighter 2/Peace Cleric 1 -> No Change \n\nâ€¢ Owen T, White, Lagomore, Gloom Stalker Ranger 3 -> No Change \n\nâ€¢ Caleb K. Ferris Faulkner, Plasmoid, Echo Knight fighter lvl 4 -> no change\n\nâ€¢ Liam R, Hoover Cowell, Centaur, Paladin Redemption 3 -> no change\n\nâ€¢ Gavin S, Durn, Dwarf, Paladin 3 --> no change\n\nâ€¢ April L, Dodaro, Elf, Lore Bard 3 -> no change\n\nâ€¢ Olivia, Derpus, Kobold, 3 Bard -> Deceased"
+Brief Overview: "The party encountered a rat attempting to post a hastily drawn letter onto the quest board. The letter requested help at the recently shut-down Rockaria Opera House. The group arrived at the abandoned building to find it swarming with undead. After clearing a path to the showroom, they encountered a necromancer putting on a show for the previous owners, whom he had kidnapped, and a hoard of undead spirits. The Bard, Derpus, attempted to make there way dramatically onto the stage only to be ruthlessly mauled to death by 22 Specters. The now hostile ghosts swarmed out of the audience hall, chasing the rest of the party out of the building and into the streets. This chaotic series of events was, however, enough of a distraction to let part of the party sneak in and rescue the quest giver from their harrowing fate. However, the Necromancer of the Opera House remains at large."
+Important World Impacts: "22 Specters made their way into the streets of Port Damali and have yet to be eliminated. Still roaming the neighborhood."
+Rewards: "900xp each\n\n280gp to White and Dodaro for staying for the full quest\n\n140gp to Durn, Hoover Cowell, Ferris, and Blast for abandoning the quest after the Specters attacked."
+Optional Observations: "Derpus died how they lived, confusing the rest of the party with their actions\n\nâ€¦I'm gonna have to run a Part 3, aren't I? This was supposed to be a one-shotâ€¦"
+---
