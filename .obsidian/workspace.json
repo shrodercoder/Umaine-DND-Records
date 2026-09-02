@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "38ff1b8915d858cd",
+        "id": "369f429d9595b515",
         "type": "tabs",
         "children": [
           {
-            "id": "8fdd3062970cb34b",
+            "id": "7f60c5fc565c0fb3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Tal'Dorei/Quest Reports-- Tal'dorei/Fallen Embers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fallen Embers"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tal'Dorei/Quest Reports-- Tal'dorei/Fallen Embers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tal'Dorei/Quest Reports-- Tal'dorei/Fallen Embers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +133,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -163,12 +169,12 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,43 +184,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-importer:Import notes": false
+      "bases:Create new base": false
     }
   },
-  "active": "8fdd3062970cb34b",
+  "active": "7f60c5fc565c0fb3",
   "lastOpenFiles": [
-    "Quest Reports-- Unsure.base",
-    "Quest Reports-- Unsure/A Measure of Vigilance.md",
-    "Quest Reports-- Unsure/The Brilliant Strand.md",
-    "Quest Reports-- Unsure/Down by the River.md",
-    "Quest Reports-- Unsure/Eldorado Overture.md",
-    "Quest Reports-- Unsure/Lets Go to the Carnival.md",
-    "Quest Reports-- Unsure/Scar Tissue.md",
-    "Quest Reports-- Unsure/Kickstart My Heart.md",
-    "Quest Reports-- Unsure/Going Batty.md",
-    "Quest Reports-- Unsure/Shot in the Dark.md",
-    "Quest Reports-- Unsure/Power Requested.md",
-    "Quest Reports-- Unsure/Fey Problems Require Fey Solutions.md",
-    "Quest Reports-- Unsure/Peter the Horse is Here.md",
-    "Quest Reports-- Unsure/Crimson & Clover.md",
-    "Quest Reports-- Unsure/Appetite For Destruction.md",
-    "Quest Reports-- Unsure/Sweet Dreams.md",
-    "Quest Reports-- Unsure/Master of Power.md",
-    "Quest Reports-- Unsure/Sand Struggle.md",
-    "Quest Reports-- Unsure/Frogger.md",
-    "Quest Reports-- Unsure/Teamwork Makes the Dream Work.md",
-    "Quest Reports-- Unsure/Scribblers.md",
+    "Quest Reports-- Unsure/â˜† It's The Same â€˜Ol Situation â˜†.md",
+    "Quest Reports-- Unsure/Who Can It Be Now.md",
+    "Quest Reports-- Unsure/What Waits in the Woods.md",
+    "Quest Reports-- Unsure/Welcome to Damali.md",
+    "Quest Reports-- Unsure/Weekend at Bingles.md",
+    "Quest Reports-- Unsure/WHO TOUCHA MY SPAGHET.md",
+    "Quest Reports-- Unsure/Twinward Isles Expedition.md",
+    "Quest Reports-- Unsure/Trade Time Troubles.md",
+    "Quest Reports-- Unsure/Toy Chest.md",
+    "Quest Reports-- Unsure/Top Gun.md",
+    "Quest Reports-- Unsure/Tidebreaker.md",
+    "Quest Reports-- Unsure/Thieves in the Mist.md",
+    "Quest Reports-- Unsure/They Rise Again.md",
+    "Quest Reports-- Unsure/There is no Trouble in the Rifenmist Jungle.md",
+    "Quest Reports-- Unsure/Them Thar Hills.md",
+    "Quest Reports-- Unsure/The marks.md",
+    "Quest Reports-- Unsure/The Witch's House.md",
+    "Quest Reports-- Unsure/The Secret in the Glasshouse.md",
+    "Quest Reports-- Unsure/The Predatorâ€™s Shadow.md",
+    "Quest Reports-- Unsure/The Owl House.md",
     "Quest Reports-- Unsure/The Motley Cruise.md",
-    "Quest Reports-- Unsure/Fairy Fun in the Forest.md",
-    "Quest Reports-- Unsure/Birthday Party.md",
-    "Quest Reports-- Unsure/Bestower of Wealth.md",
-    "Quest Reports-- Unsure/Ratatouille.md",
-    "Untitled.base",
+    "Quest Reports-- Unsure/The Lantern and The Plow.md",
+    "Quest Reports-- Unsure/The King of Cats.md",
+    "Quest Reports-- Unsure/The Impasta.md",
+    "Quest Reports-- Unsure/The Good, the Bad, and the Devil's Advocate.md",
+    "Quest Reports-- Unsure/The Brilliant Strand.md",
+    "Quest Reports-- Unsure.base",
     "Pasted image 20260831122133.png",
-    "images/Wildemount_Poster_Map.webp",
-    "images/Port_Damali 1.webp",
-    "images/Damali_Revision_4 1.jpg",
     "PCs/someone help pls i cant find them",
     "githubkey.pub",
     "githubkey",
