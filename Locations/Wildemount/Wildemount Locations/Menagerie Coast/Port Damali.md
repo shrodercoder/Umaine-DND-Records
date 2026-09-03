@@ -1,0 +1,37 @@
+- https://criticalrole.fandom.com/wiki/Port_Damali
+- https://2014.5e.tools/book.html#egw,4,port%20damali,0
+[[Port Damali Images]]
+Events:
+- [[Twinward Isles Expedition]]
+	- 9/6/25 / In-Universe Date
+	- World Impact: The lumber and mineral economy of [[Port Damali]] took a large hit from the exploitation of protected resources being introduced to the market. The prices will return to their normal states in a matter of days.
+- [[The King of Cats]]
+	- 9/6/25
+	- World Impact: Within Port Damali, stray cats and dogs have an uneasy peace. Both factions have declared war on the vermin, vowing to kill any rats they see on sight. The Rat Boss is still at large....
+- [[Clownin' Around]]
+	- 9/9/25 / In-Universe Date
+	- World Impact: N/A
+- [[Welcome to Damali]]
+	- 9/10/25
+	- World Impact: Guild Master Emelia has received a basic understanding of the capabilities of the coinbound
+- [[A Simple Rat Problem]]
+	- 9/11/25 / In-Universe Date
+	- World Impact: N/A A thieving druid who has good relations with Port Demali's rats is still at large
+- [[Let's Kill Some Goblins!]]
+	- 9/12/25 / In-Universe Date
+	- World Impact: Barnabus Brrrblton was able to set up his wizard tower outside of Port Damali. He's a frog and a wizard.
+- [[Goons and Goblins]]
+	- 9/13/25 / In-Universe Date
+	- World Impact: Small goblin gangs in Port Dismali are growing increasingly restless.
+- [[Cat's Out of the Bag]]
+	- 9/14/25 / In-Universe Date
+	- World Impact: N/A
+- [[Take This!]]
+	- 9/25/25
+	- World Impact: Old man Whitestone has collected 250GP worth of gold, and a small, currently unnamed goblin gang living in the port is getting angrier at the old man's shenanigans.
+- [[Let's Kill Some Kobolds!]]
+	- 9/26/25
+	- World Impact: Quest Failure? So they did get the items back and did kill some of the kobolds, but they also didn't fully eliminate them....
+- [[Sunk Costs]]
+	- 10/2/25
+	- World Impact: Two members of the pirate crew who were captured and being held by the town guard of Damali were murdered in their sleep by an unknown party.

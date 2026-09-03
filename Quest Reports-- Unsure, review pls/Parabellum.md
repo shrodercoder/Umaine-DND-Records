@@ -1,0 +1,10 @@
+---
+Name: "Parabellum"
+Type: "Encounter"
+CR: 4
+Party Details: "(\\No level changes)\n\nâ€¢ Evan S, Roh-Bob, Warforged, Barbarian 4 -> 5\n\nâ€¢ Liam R, Hoover, Centaur, Paladin 4\\\n\nâ€¢ Cyrus F, Woodrow, Half-Elf, Warlock 4\\\n\nâ€¢ Xander D, Zym, Drow Half-Elf, Fighter 1 -> 3\n\nâ€¢ Sam M, Zada, Govlin, Cleric 5\\\n\nâ€¢ Zachary Wolfe, Cal-Van, Drow, Rogue 4 -> 5\n\nâ€¢ Robert K, Roland, Half-Elf, Sorcerer 3 -> 4\n\nâ€¢ Will L, York, Bugbear, Wizard 2 -> 3\n\nâ€¢ Jeffrey, Robin, Base Human, Monk 5\\"
+Brief Overview: "The party took a quest to honor the late Mr White Stone, asking the party to check up on a friend. They headed far outside the boundaries of the port town where they located a small fishing hut, and met Dick Heather, a large and candid 44-year-old fisherman. Zada and Dick cooked a super massive cake for all the party members, and York ate 80% of it. The party spent time catching small fish in a minor competition, until Dick dove under the water and tangled their lines together. Nobody really fell for the prank, as most of the party simply let go of their fishing rods. Robin and York got into a minor scrap where they tried to shove each other off the boat, where York tried to escalate by using Shocking Grasp on Robin. The fight was stopped by Dick, and when the party eventually returned, Zada and Dick cooked the caught fish while Robin stole a thing of cooking wine. Now being confronted by Hoover Cowell and York, Robin continued bickering and fighting until York cast Shocking Grasp on him, causing Dick to storm out from the kitchen and confront the party. Zada cast calm emotions, stopping the fight. He kicked the party out of the house, telling them to never return."
+Important World Impacts: "None."
+Rewards: "â€¢ 1,900 exp per player\n\nNo gold rewards because they hurt the reward giver emotionally."
+Optional Observations: "Surprisingly emotional session. I can't believe they genuinely failed a 1/5. First 1/5 of the setting, too, if I'm seeing this right."
+---

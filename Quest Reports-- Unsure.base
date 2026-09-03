@@ -1,0 +1,14 @@
+filters: file.folder == "Quest Reports-- Unsure"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Name
+      - Type
+      - CR
+      - Party Details
+      - Brief Overview
+      - Important World Impacts
+      - Rewards
+      - Optional Observations
