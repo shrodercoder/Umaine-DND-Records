@@ -1,108 +1,16 @@
 {
   "main": {
-    "id": "bf6c084aefb609da",
+    "id": "f1ab57c0551d0580",
     "type": "split",
     "children": [
       {
-        "id": "369f429d9595b515",
+        "id": "83757f0c58434220",
         "type": "tabs",
         "children": [
           {
-            "id": "7f60c5fc565c0fb3",
+            "id": "e8bf722e0be3a4d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Wildemount/Wildemount Locations/Wildemount.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wildemount"
-            }
-          },
-          {
-            "id": "55f7988b2bf7125f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPCs/Factions/Motley Crue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Motley Crue"
-            }
-          },
-          {
-            "id": "50be18d3a30a189e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPCs/Factions/Iron Authority.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Iron Authority"
-            }
-          },
-          {
-            "id": "a4e693cfca573629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Quest Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quest Template"
-            }
-          },
-          {
-            "id": "974f53ddcf079be9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "7ea6a4b962fa15bd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "11a7d1b868cc6c51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Faction Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Faction Template"
-            }
-          }
-        ],
-        "currentTab": 4
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
@@ -115,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "01b4e3a55a265ae2",
+    "id": "404ac94a30f15632",
     "type": "split",
     "children": [
       {
-        "id": "d99c4ca70bb8f357",
+        "id": "cbab368bc004c219",
         "type": "tabs",
         "children": [
           {
-            "id": "edfe2611a1043bd6",
+            "id": "41b7d726b4838c0a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -138,7 +46,7 @@
             }
           },
           {
-            "id": "4c32f16838ce17cf",
+            "id": "f583aa4f903b0002",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -155,7 +63,7 @@
             }
           },
           {
-            "id": "e7db8444640b7e9a",
+            "id": "4c957cefe183a755",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -174,15 +82,15 @@
     "width": 300
   },
   "right": {
-    "id": "3b31e3aa8cd4b46e",
+    "id": "86e35944edb5292d",
     "type": "split",
     "children": [
       {
-        "id": "c6ef5b294d078042",
+        "id": "5f8d4ac1f09f17cd",
         "type": "tabs",
         "children": [
           {
-            "id": "0d4791450dd75485",
+            "id": "6657d2cfe74791e3",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -201,7 +109,7 @@
             }
           },
           {
-            "id": "6c8050e86ce32a24",
+            "id": "292271f5a29637cf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -215,7 +123,7 @@
             }
           },
           {
-            "id": "fdf32de5524742f9",
+            "id": "fce1e5cf631644d6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -230,7 +138,7 @@
             }
           },
           {
-            "id": "9bd8e67ab64c1e0e",
+            "id": "967fa7fa3c5e8f27",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -244,7 +152,7 @@
             }
           },
           {
-            "id": "1fd2aab3663d783a",
+            "id": "ae22100fbe1f0253",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -275,51 +183,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "974f53ddcf079be9",
+  "active": "e8bf722e0be3a4d9",
   "lastOpenFiles": [
-    "Templates/Quest Template.md",
-    "Untitled.md",
-    "Untitled",
-    "Characters/PCs/Player Factions/Order of the Oaths.md",
-    "Characters/NPCs/Factions/Iron Authority.md",
-    "Characters/PCs/Player Factions",
-    "Templates/Faction Template.md",
-    "Characters/NPCs/Factions/Dwendalian Empire.md",
-    "Characters/NPCs/Factions/Scarlet Wing.md",
-    "Characters/NPCs/Factions/Motley Crue.md",
-    "Characters/PCs/Joel Van Morrison.md",
-    "Character Wikis/Livrak Wiki.md",
-    "Templates/Player Template.md",
-    "Character Wikis/Dodaro Wiki.md",
-    "images/Joel Images.md",
+    "images/Pasted image 20260902163225.png",
+    "Wildemount/Wildemount Locations/Menagerie Coast/Port Damali.md",
+    "Wildemount/Wildemount Locations/Menagerie Coast/Twinward Isles.md",
+    "Wildemount/Wildemount Locations/Menagerie Coast/Tussoa.md",
+    "Wildemount/Wildemount Locations/Menagerie Coast/Seadust.md",
+    "Wildemount/Quest Reports-- Wildemount/Welcome to Damali.md",
+    "Wildemount/Quest Reports-- Wildemount/They Rise Again.md",
+    "Wildemount/Quest Reports-- Wildemount/Twinward Isles Expedition.md",
+    "Wildemount/Quest Reports-- Wildemount/Toy Chest.md",
+    "Wildemount/Quest Reports-- Wildemount/Thieves in the Mist.md",
+    "Wildemount/Quest Reports-- Wildemount/The King of Cats.md",
+    "Wildemount/Quest Reports-- Wildemount/Let's Kill Some Goblins!.md",
+    "Wildemount/Quest Reports-- Wildemount/Goons and Goblins.md",
+    "Wildemount/Quest Reports-- Wildemount/Eviction Notice.md",
+    "Wildemount/Quest Reports-- Wildemount/Clownin' Around.md",
+    "Wildemount/Quest Reports-- Wildemount/A Simple Rat Problem.md",
+    "Wildemount/Quest Reports-- Wildemount/Cat's Out of the Bag.md",
+    "Wildemount/Quest Reports-- Wildemount/A Pain Train™ Sequel, Caravan Chaos™ no.1 Back In The Saddle.md",
+    "Wildemount/Wildemount Locations/Pride's Call.md",
+    "Wildemount/Wildemount Locations/Menagerie Coast",
+    "Wildemount/Quest Reports-- Wildemount",
+    "Wildemount/Wildemount Locations",
+    "Wildemount",
+    "Wildemount.md",
+    "Tal'Dorei/Quest Reports-- Tal'dorei/Someone Let the Dogs Out.md",
+    "Tal'Dorei/Quest Reports-- Tal'dorei/Fallen Embers.md",
+    "Tal'Dorei/Tal'dorei.md",
+    "Tal'Dorei/Quest Reports-- Tal'dorei",
+    "Tal'Dorei",
+    "Rockaria!.md",
+    "Quest Reports-- Unsure/Time Flies when you're having Frog.md",
+    "Quest Reports-- Unsure/The Woodcutter's Sneak.md",
+    "Quest Reports-- Unsure",
+    "Pasted image 20260831122133.png",
+    "PCs/Levels 7-9",
+    "PCs/Levels 4-6",
+    "PCs/Levels 10-12",
     "images/Pasted image 20260902163224.png",
-    "images/Jorge Images.md",
-    "images/Dodaro Images.md",
-    "Characters/PCs/Dodaro.md",
     "images/Pasted image 20260902163134.png",
     "images/Pasted image 20260902163123.png",
     "images/Pasted image 20260902163040.png",
     "images/Pasted image 20260902163004.png",
     "images/Pasted image 20260902154016.png",
-    "images/Pasted image 20260831122133.png",
-    "Character Wikis/Joel Wiki.md",
-    "Characters/PCs/Livrak.md",
-    "PCs/Levels 1-3/TAce.md",
-    "PCs/Glee Voynich.md",
-    "PCs/Livrak.md",
-    "Character Wikis/Jorge Wiki.md",
-    "Character Wikis",
-    "Characters/PCs/Linda Greymoor.md",
-    "Characters/PCs/Glee Voynich.md",
-    "Characters/PCs/Dobin Longfang.md",
-    "Locations/Wildemount/Wildemount Locations/Northwest Dwendalia",
-    "Locations/Wildemount/Wildemount Locations/Northern Dwendalia",
-    "Locations/Wildemount/Wildemount Locations/Menagerie Coast",
-    "Locations/Tal'Dorei/Tal'Dorei Locations",
-    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei",
-    "Locations/Tal'Dorei",
     "images/Pasted image 20260902152948.png",
     "images/Pasted image 20260902152936.png",
-    "Locations/Wildemount/Wildemount Locations/Xhorhas"
+    "images/Pasted image 20260831165544.png"
   ]
 }
