@@ -22,35 +22,21 @@
             }
           },
           {
-            "id": "7bfa24d44cf2f0dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quest Reports-- Unsure, review pls/Eldorado Overture (date) (no tags).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eldorado Overture (date) (no tags)"
-            }
-          },
-          {
             "id": "b341ca70deb0a348",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Cloud Strifenmist.md",
+                "file": "Quest Reports-- Unsure, review pls/Feel the Heat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Strifenmist"
+              "title": "Feel the Heat"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,6 +205,16 @@
   },
   "active": "b341ca70deb0a348",
   "lastOpenFiles": [
+    "Quest Reports-- Unsure, review pls/Fallen Embers.md",
+    "Quest Reports-- Unsure, review pls/Fairy Fun in the Forest (location) (No tags).md",
+    "Quest Reports-- Unsure, review pls/Eldorado Overture (date) (no tags) (UNFINISHED).md",
+    "Quest Reports-- Unsure, review pls/Eviction Notice.md",
+    "Quest Reports-- Unsure, review pls/Dealings with the Drow (no location) (no tags).md",
+    "Quest Reports-- Unsure, review pls/Dashing Through the Snow (no location) (no tags).md",
+    "Quest Reports-- Unsure, review pls/Damn Kids (no location) (no tags).md",
+    "Thelia Gelane.md",
+    "Templates/Quest Template.md",
+    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Cloud Strifenmist.md",
     "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Fallen Embers.md",
     "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Someone Let the Dogs Out.md",
     "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Rifenmistery.md",
@@ -235,16 +231,6 @@
     "Locations/Wildemount/Quest Reports-- Wildemount/Clownin' Around.md",
     "Locations/Wildemount/Quest Reports-- Wildemount/Cat's Out of the Bag.md",
     "Locations/Wildemount/Quest Reports-- Wildemount/Bring out Ye Dead.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/Blightshore Bonanza (no tags).md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/Birthday Party (no tags).md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/Bestower of Wealth (no tags).md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/Bestower of Power (no tags).md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/Bang Bang Bang (no tags).md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/Appetite For Destruction (no tags).md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/Anomalous Magic Detected.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/A Spiky Situation.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/A Slightly More Complicated Rat Problem.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/A Simple Rat Problem.md",
     "Locations/Wildemount/Wildemount Locations/Graying Wildlands",
     "Quest Reports-- Unsure.base",
     "Locations/Marquet/Marquet-- Quest Reports",
