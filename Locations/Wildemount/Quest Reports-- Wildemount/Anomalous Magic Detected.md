@@ -117,4 +117,4 @@ The next day, they found a piece of [[Aeor]] in the middle of the [[Crystalsands
 - A young white dragon has taken up residence in the territory west of Palebank Village, though the village and the creature have not yet come to blows.
 **Optional Observations** This was a fantastic party that I would love to DM for again. Highlights include "on the way", The Woods, and all the wins for negotiations. Nothing bad happened in the Crystalsands Tundra, trust.
 
-#Aeor #Crystalsands-Tundra #Wildemount #Graying-Wildlands #Northern-Wildemount 
+#Aeor #Crystalsands-Tundra #Wildemount #Graying-Wildlands #Northern-Wildemount #Kara-Almire 
