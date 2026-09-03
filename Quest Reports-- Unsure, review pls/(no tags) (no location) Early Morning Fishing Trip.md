@@ -11,7 +11,7 @@ Optional Observations: "random fishing tables are WACKY"
 DM: June M
 Date: 10/9/25
 In-Universe Date: 
-Location:
+Location: I think it's [[Port Damali]] but i'll ask
 NPCs:
 - [[John Green]]
 - [[Vergil]]

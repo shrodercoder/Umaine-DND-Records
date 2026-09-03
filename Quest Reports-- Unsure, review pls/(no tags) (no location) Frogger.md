@@ -8,3 +8,25 @@ Important World Impacts: "None."
 Rewards: "1 mundane Bomb\n\n 100 GP\n\n 900 xp"
 Optional Observations: "These people were silly and great. Also Dr. Roberts has lost an arm!"
 ---
+DM: Charles M
+Date: 1/9/25
+In-Universe Date: 
+Location: dunno lol
+NPCs:
+- Dr. Roberts
+- Various beasts
+PCs:
+- [[Zell]]
+- [[Louis]]
+- [[Euphoria]]
+- [[Lilmyn]]
+- [[Vincent]]
+- [[Nil]]
+Rewards:
+- 1 mundane Bomb 
+- 100 GP 
+- 900 xp
+Plot Summary:
+**Brief Overview:** A researcher has requested that adventurers escort him into this dungeon, where he thinks an interesting archeological discovery lies. Sadly also in this dungeon is a set of various beasts who have come to call it home. Namely a Giant snapping turtle and Froghemoth
+**Important World Impacts** None
+**Optional Observations** These people were silly and great. Also Dr. Roberts has lost an arm!

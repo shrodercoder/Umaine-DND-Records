@@ -8,3 +8,27 @@ Important World Impacts: "I named the town in the dividing plains Brair village.
 Rewards: "+1 weapon rapier, rusty bag of tricks, broom of flying, cloak of protection, eversmoking bottle"
 Optional Observations: "its hard to make a quest 4/5 difficulty with the fabulous on board"
 ---
+DM: Eryn F
+Date: 11/12/25
+In-Universe Date: 
+Location: [[Dividing Plains]]
+NPCs:
+- Spore lady
+PCs:
+- [[Ransom]]
+- [[The Host]]
+- [[Jorge Ramalo DECEASED]]
+- [[Dodaro]]
+- [[Dr. Felix Barnabus]]
+Rewards:
+- 1500 exp per player
+- 160 gp per player 
+- +1 weapon rapier
+- rusty bag of tricks
+- broom of flying
+- cloak of protection
+- eversmoking bottle
+Plot Summary:
+**Brief Overview:** The party was hired for a quest in helping in setting up a festival for a village in the dividing plains, but discovered a devious plot. After getting on with the first task set of putting some flowers around town, they discovered people were acting strange, and then found some people that hadn't been affected yet who confirmed their suspicions. The women who hired them was secretly spreading spores throughout the village that made people obsessed over the plants, eventually neglecting themselves to the point of almost death before wandering away to a nearby cave to be used as fertilizer for a large plant monster. Her plan was to try and get them infected to then spread the spores after they left. They caught the lady, made their way towards the cave, killed all the plant zombies and slayed the plant monster. The still surviving towns people were released from the grip and the town rejoiced and celebrated with the hero's.
+**Important World Impacts** I named the town in the dividing plains Brair village.
+**Optional Observations** its hard to make a quest 4/5 difficulty with the fabulous on board

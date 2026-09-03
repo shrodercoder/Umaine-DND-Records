@@ -33,7 +33,7 @@ Optional Observations: "- It was fun to step away from the blightshore for a bit
 DM: Maddie D
 Date: 12/15/25
 In-Universe Date: 
-Location: Verdant Expanse (revisit when not tired)
+Location: [[Verdant Expanse]]
 NPCs:
 - Harvy Dask
 - Angry sprite
