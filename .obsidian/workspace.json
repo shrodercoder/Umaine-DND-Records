@@ -1,56 +1,14 @@
 {
   "main": {
-    "id": "bf6c084aefb609da",
+    "id": "122bed54a006f71f",
     "type": "split",
     "children": [
       {
-        "id": "369f429d9595b515",
+        "id": "31c49e83db359a17",
         "type": "tabs",
         "children": [
           {
-            "id": "7f60c5fc565c0fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Wildemount/Wildemount Locations/Wildemount.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wildemount"
-            }
-          },
-          {
-            "id": "55f7988b2bf7125f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPCs/Factions/Motley Crue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Motley Crue"
-            }
-          },
-          {
-            "id": "50be18d3a30a189e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPCs/Factions/Iron Authority.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Iron Authority"
-            }
-          },
-          {
-            "id": "a4e693cfca573629",
+            "id": "9baefc716f414413",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,66 +22,49 @@
             }
           },
           {
-            "id": "974f53ddcf079be9",
+            "id": "7bfa24d44cf2f0dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Quest Reports-- Unsure, review pls/Eldorado Overture (date) (no tags).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Eldorado Overture (date) (no tags)"
             }
           },
           {
-            "id": "7ea6a4b962fa15bd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "11a7d1b868cc6c51",
+            "id": "b341ca70deb0a348",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Faction Template.md",
+                "file": "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Cloud Strifenmist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faction Template"
+              "title": "Cloud Strifenmist"
             }
           }
         ],
-        "currentTab": 4
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "01b4e3a55a265ae2",
+    "id": "d35e9da02ed4b0bf",
     "type": "split",
     "children": [
       {
-        "id": "d99c4ca70bb8f357",
+        "id": "a625cd72f77461d2",
         "type": "tabs",
         "children": [
           {
-            "id": "edfe2611a1043bd6",
+            "id": "943088718f00e7f1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -138,12 +79,12 @@
             }
           },
           {
-            "id": "4c32f16838ce17cf",
+            "id": "8dd9cda4b8a5dfc6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "demanded ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +96,7 @@
             }
           },
           {
-            "id": "e7db8444640b7e9a",
+            "id": "19717c888710ea5b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -171,23 +112,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5
   },
   "right": {
-    "id": "3b31e3aa8cd4b46e",
+    "id": "df2d1f2e82d9991b",
     "type": "split",
     "children": [
       {
-        "id": "c6ef5b294d078042",
+        "id": "368e65b7c7206bd2",
         "type": "tabs",
         "children": [
           {
-            "id": "0d4791450dd75485",
+            "id": "fd4fc4076351ba71",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tal'Dorei/Quest Reports-- Tal'dorei/Fallen Embers.md",
+                "file": "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Cloud Strifenmist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,12 +142,12 @@
             }
           },
           {
-            "id": "6c8050e86ce32a24",
+            "id": "55aaba6b3f50f531",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tal'Dorei/Quest Reports-- Tal'dorei/Fallen Embers.md",
+                "file": "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Cloud Strifenmist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -215,13 +156,13 @@
             }
           },
           {
-            "id": "fdf32de5524742f9",
+            "id": "b87856ac28979eb3",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -230,7 +171,7 @@
             }
           },
           {
-            "id": "9bd8e67ab64c1e0e",
+            "id": "19367ece31021552",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -244,11 +185,12 @@
             }
           },
           {
-            "id": "1fd2aab3663d783a",
+            "id": "a8f462caf867b5cb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Cloud Strifenmist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -257,12 +199,12 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,51 +217,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "974f53ddcf079be9",
+  "active": "b341ca70deb0a348",
   "lastOpenFiles": [
-    "Templates/Quest Template.md",
-    "Untitled.md",
-    "Untitled",
-    "Characters/PCs/Player Factions/Order of the Oaths.md",
-    "Characters/NPCs/Factions/Iron Authority.md",
-    "Characters/PCs/Player Factions",
-    "Templates/Faction Template.md",
-    "Characters/NPCs/Factions/Dwendalian Empire.md",
-    "Characters/NPCs/Factions/Scarlet Wing.md",
-    "Characters/NPCs/Factions/Motley Crue.md",
-    "Characters/PCs/Joel Van Morrison.md",
-    "Character Wikis/Livrak Wiki.md",
-    "Templates/Player Template.md",
-    "Character Wikis/Dodaro Wiki.md",
-    "images/Joel Images.md",
-    "images/Pasted image 20260902163224.png",
-    "images/Jorge Images.md",
-    "images/Dodaro Images.md",
-    "Characters/PCs/Dodaro.md",
-    "images/Pasted image 20260902163134.png",
-    "images/Pasted image 20260902163123.png",
-    "images/Pasted image 20260902163040.png",
-    "images/Pasted image 20260902163004.png",
-    "images/Pasted image 20260902154016.png",
-    "images/Pasted image 20260831122133.png",
-    "Character Wikis/Joel Wiki.md",
-    "Characters/PCs/Livrak.md",
-    "PCs/Levels 1-3/TAce.md",
-    "PCs/Glee Voynich.md",
-    "PCs/Livrak.md",
-    "Character Wikis/Jorge Wiki.md",
-    "Character Wikis",
-    "Characters/PCs/Linda Greymoor.md",
-    "Characters/PCs/Glee Voynich.md",
-    "Characters/PCs/Dobin Longfang.md",
-    "Locations/Wildemount/Wildemount Locations/Northwest Dwendalia",
-    "Locations/Wildemount/Wildemount Locations/Northern Dwendalia",
-    "Locations/Wildemount/Wildemount Locations/Menagerie Coast",
-    "Locations/Tal'Dorei/Tal'Dorei Locations",
-    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei",
-    "Locations/Tal'Dorei",
-    "images/Pasted image 20260902152948.png",
-    "images/Pasted image 20260902152936.png",
-    "Locations/Wildemount/Wildemount Locations/Xhorhas"
+    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Fallen Embers.md",
+    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Someone Let the Dogs Out.md",
+    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Rifenmistery.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/An Active(ist) Issue.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Let's Kill Some Goblins!.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/I Looked Away for a Second.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Goons and Goblins.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Eviction Notice.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Dusk Falls.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Down With the Sickness (no tags).md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Down by the River (no tags).md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Demanded Migration.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Crimson & Clover (no tags).md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Clownin' Around.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Cat's Out of the Bag.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Bring out Ye Dead.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Blightshore Bonanza (no tags).md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Birthday Party (no tags).md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Bestower of Wealth (no tags).md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Bestower of Power (no tags).md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Bang Bang Bang (no tags).md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Appetite For Destruction (no tags).md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Anomalous Magic Detected.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/A Spiky Situation.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/A Slightly More Complicated Rat Problem.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/A Simple Rat Problem.md",
+    "Locations/Wildemount/Wildemount Locations/Graying Wildlands",
+    "Quest Reports-- Unsure.base",
+    "Locations/Marquet/Marquet-- Quest Reports",
+    "Locations/Marquet"
   ]
 }
