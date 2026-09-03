@@ -1,6 +1,7 @@
 Primary DM: N/A
 Lore Summary:
 PC members:
+- [[Juno]] 
 Notable NPC members:
 Relationships:
 Events:

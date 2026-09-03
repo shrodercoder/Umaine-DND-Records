@@ -7,7 +7,7 @@ NPCs:
 PCs:
 - [[ADAM]]
 - [[Varfinius]]
-- [[Sir Reggie]]
+- [[Sir Parmigiano Reggiano]]
 - [[Edward Lake]]
 - [[Comet Novatalon DECEASED]]
 - [[Peple Sternarm]]

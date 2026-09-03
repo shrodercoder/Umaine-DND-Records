@@ -11,3 +11,6 @@ Events:
 - [[Trade Time Troubles]]
 	- 9/18/25 / In-Universe Date
 	- World Impact: The latest food shipment coming in from the Menagerie coast was been burned and destroyed by the Brown Cap bandits. There were some food shortages in the south of the empire for a week or two until another shipment arrives
+- [[(no tags) Birthday Party]]
+	- 12/13/25
+	- Retrieved a baby turtle from the Torrid Reef.

@@ -9,7 +9,7 @@ Rewards: "600xp + 20gp each\n\n Cloak of Billowing\n\n Hewardâ€™s Handy Spi
 Optional Observations: ""
 ---
 DM: Kevin Y
-Date: 
+Date: 2/6/26
 In-Universe Date: 
 Location: [[Port Damali]]
 NPCs:

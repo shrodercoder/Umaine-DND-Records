@@ -1,4 +1,4 @@
-Primary DM:
+Primary DM: Dylan G
 Lore Summary:
 PC members:
 Notable NPC members:

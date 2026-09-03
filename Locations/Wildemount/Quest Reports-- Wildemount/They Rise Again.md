@@ -10,7 +10,7 @@ PCs:
 - [[Cal'Van]]
 - [[Drand]]
 - [[Áine]]
-- [[Sir Reggie]]
+- [[Sir Parmigiano Reggiano]]
 - [[Dame Elizabeth]]
 Plot Summary:
 **Brief Overview:** The party was hired by a representative of Pride's Call to defend a shipment of pride silk between Pride's Call and Yrrosa after several travelers and a shipment of pride silk went missing. Traveling up Pride's Walk Road with a caravan of dwarves, the party saw a figure watching them during the night, before encountering the lost caravan in the woods between Pride's Call and Yrrosa. The caravan was then ambushed by a group of undead, including reanimated wolves and a ghast, which were ultimately destroyed. The shipment arrived at Yrrosa safely. 
