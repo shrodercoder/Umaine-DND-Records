@@ -1,0 +1,33 @@
+---
+Name: "Diamonds or Devils"
+Type: "Encounter"
+CR: 6
+Party Details: "(\\No level up)\n\nâ€¢ Allison O, Svit, Aarakocra, Wizard 5\\\n\nâ€¢ Chris L, F'roshe, Grung, Barbarian 5 -> 6\n\nâ€¢ Liam R, Hoover, Centaur, Paladin 4 -> 5\n\nâ€¢ Will B.D., Livrak, Goliath, Barbarian 6\\\n\nâ€¢ Zander R, Sylvester, Aarakocra, Monk 5\\"
+Brief Overview: "The party was hired by the Stardust Mining Company to secure the diamond source recently discovered to the south of Kings Fall in Marquet's Hellcatch Valley so the company could set up a mine. They were transported to the city of Loonpur where the Stardust Company HQ was located and were informed that the Hellspur gang faction led by outlaw \"Laughing\" Jasper Flint was likely to be in the area of the diamond source. The party set out after making some preparations and fought some wild giant scorpions while en route to the ravine where the diamonds were located. Upon arriving at the ravine they ran into \"Laughing\" Jasper Flint and four of his men, who quickly started a fight with the party. Things were looking dire for the party at first as Flint's chaotic abilities and insanity caught them off guard, but they were able turn the tables of the difficult fight by killing off Flint's subordinates while he was having a wild magic heart attack. Left alone and bored having lost his men and seen most of the party's abilities, Flint escaped after being thrown off a cliff by Livrak. The party met up with the mining group sent to follow behind them and recieved their reward."
+Important World Impacts: "The Loonpur based Stardust Mining Company has set up a mine at the large diamond source discovered to the south of King's Fall."
+Rewards: "â€¢ 1,800 exp + 580 gp per player\n\nâ€¢ 3 Uncommon Crafting Components per player\n\nâ€¢ 1 Carousing Contact (Fabian Bucher & Stardust Mining Co.) per player"
+Optional Observations: "Wild magic is wild, only give it to an enemy if you're alright with them rolling resistance to all damage turn one like happened here."
+---
+DM: Sam M
+Date: 12/4/25
+In-Universe Date: 
+Location: [[Hellcatch Valley]], [[Loonpur]]
+NPCs:
+- [[Hellspurs]]
+- [[Stardust Mining Company]]
+- "Laughing" Jasper Flint
+PCs:
+- [[Svit]]
+- [[F'roshe]]
+- [[Hoover Cowell]]
+- [[Livrak]]
+- [[Sylvester]]
+Rewards:
+- 1,800 exp 
+- 580 gp per player 
+- 3 Uncommon Crafting Components per player 
+- 1 Carousing Contact (Fabian Bucher & Stardust Mining Co.) per player
+Plot Summary:
+**Brief Overview:** The party was hired by the Stardust Mining Company to secure the diamond source recently discovered to the south of Kings Fall in Marquet's Hellcatch Valley so the company could set up a mine. They were transported to the city of Loonpur where the Stardust Company HQ was located and were informed that the Hellspur gang faction led by outlaw "Laughing" Jasper Flint was likely to be in the area of the diamond source. The party set out after making some preparations and fought some wild giant scorpions while en route to the ravine where the diamonds were located. Upon arriving at the ravine they ran into "Laughing" Jasper Flint and four of his men, who quickly started a fight with the party. Things were looking dire for the party at first as Flint's chaotic abilities and insanity caught them off guard, but they were able turn the tables of the difficult fight by killing off Flint's subordinates while he was having a wild magic heart attack. Left alone and bored having lost his men and seen most of the party's abilities, Flint escaped after being thrown off a cliff by Livrak. The party met up with the mining group sent to follow behind them and recieved their reward.
+**Important World Impacts** The Loonpur based Stardust Mining Company has set up a mine at the large diamond source discovered to the south of King's Fall.
+**Optional Observations** Wild magic is wild, only give it to an enemy if you're alright with them rolling resistance to all damage turn one like happened here.

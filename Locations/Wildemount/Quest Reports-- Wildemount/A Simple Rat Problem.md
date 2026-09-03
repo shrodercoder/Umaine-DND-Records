@@ -13,8 +13,12 @@ PCs:
 - [[𝔇]]
 - [[Weebil]]
 - [[Dodaro]]
+Rewards:
+- 600 exp 
+- 100 gp 
 Plot Summary:
 **Brief Overview:** A merchant hired some coinbound to investigate why he was getting stalked and pickpocketed by rats. Party keeps a watch out for rats and ends up buying 7 half shovels in the process. Party chases after a suspicous rat, revealing the bartender from the start of the encounter was a wildshaped druid using her tavern to select marks. Party talks her into giving them the gold she stole in exchange for them letting her go 
 **Important World Impacts:** A thieving druid who has good relations with Port Demali's rats is still at large
+**Optional Observations**
 
-#Wildemount #Menagerie-Coast #Port-Damali
+#Wildemount #Menagerie-Coast #Port-Damali #Clovis-Concord 

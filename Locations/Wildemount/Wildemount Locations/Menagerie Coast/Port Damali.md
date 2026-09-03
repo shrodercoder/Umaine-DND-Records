@@ -23,7 +23,7 @@ Events:
 - [[Goons and Goblins]]
 	- 9/13/25 / In-Universe Date
 	- World Impact: Small goblin gangs in Port Dismali are growing increasingly restless.
-- [[Cat's Out of the Bag]]
+- [[Locations/Wildemount/Quest Reports-- Wildemount/Cat's Out of the Bag]]
 	- 9/14/25 / In-Universe Date
 	- World Impact: N/A
 - [[Take This!]]
