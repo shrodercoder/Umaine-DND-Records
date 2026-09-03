@@ -1,14 +1,17 @@
 {
   "main": {
     "id": "bf6c084aefb609da",
+    "id": "f1ab57c0551d0580",
     "type": "split",
     "children": [
       {
         "id": "369f429d9595b515",
+        "id": "83757f0c58434220",
         "type": "tabs",
         "children": [
           {
             "id": "7f60c5fc565c0fb3",
+            "id": "e8bf722e0be3a4d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -115,15 +118,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "01b4e3a55a265ae2",
+    "id": "404ac94a30f15632",
     "type": "split",
     "children": [
       {
-        "id": "d99c4ca70bb8f357",
+        "id": "cbab368bc004c219",
         "type": "tabs",
         "children": [
           {
-            "id": "edfe2611a1043bd6",
+            "id": "41b7d726b4838c0a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -138,7 +141,7 @@
             }
           },
           {
-            "id": "4c32f16838ce17cf",
+            "id": "f583aa4f903b0002",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -155,7 +158,7 @@
             }
           },
           {
-            "id": "e7db8444640b7e9a",
+            "id": "4c957cefe183a755",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -174,20 +177,19 @@
     "width": 300
   },
   "right": {
-    "id": "3b31e3aa8cd4b46e",
+    "id": "86e35944edb5292d",
     "type": "split",
     "children": [
       {
-        "id": "c6ef5b294d078042",
+        "id": "5f8d4ac1f09f17cd",
         "type": "tabs",
         "children": [
           {
-            "id": "0d4791450dd75485",
+            "id": "6657d2cfe74791e3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tal'Dorei/Quest Reports-- Tal'dorei/Fallen Embers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,12 +203,11 @@
             }
           },
           {
-            "id": "6c8050e86ce32a24",
+            "id": "292271f5a29637cf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tal'Dorei/Quest Reports-- Tal'dorei/Fallen Embers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -215,13 +216,13 @@
             }
           },
           {
-            "id": "fdf32de5524742f9",
+            "id": "fce1e5cf631644d6",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -230,7 +231,7 @@
             }
           },
           {
-            "id": "9bd8e67ab64c1e0e",
+            "id": "967fa7fa3c5e8f27",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -244,7 +245,7 @@
             }
           },
           {
-            "id": "1fd2aab3663d783a",
+            "id": "ae22100fbe1f0253",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -257,12 +258,12 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,51 +276,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "974f53ddcf079be9",
+  "active": "e8bf722e0be3a4d9",
   "lastOpenFiles": [
-    "Templates/Quest Template.md",
-    "Untitled.md",
-    "Untitled",
-    "Characters/PCs/Player Factions/Order of the Oaths.md",
-    "Characters/NPCs/Factions/Iron Authority.md",
-    "Characters/PCs/Player Factions",
-    "Templates/Faction Template.md",
-    "Characters/NPCs/Factions/Dwendalian Empire.md",
-    "Characters/NPCs/Factions/Scarlet Wing.md",
-    "Characters/NPCs/Factions/Motley Crue.md",
-    "Characters/PCs/Joel Van Morrison.md",
-    "Character Wikis/Livrak Wiki.md",
-    "Templates/Player Template.md",
-    "Character Wikis/Dodaro Wiki.md",
-    "images/Joel Images.md",
+    "Quest Reports-- Unsure, review pls/â˜† It's The Same â€˜Ol Situation â˜†.md",
+    "Quest Reports-- Unsure, review pls/Fallen Embers.md",
+    "Quest Reports-- Unsure, review pls/Fairy Fun in the Forest.md",
+    "Quest Reports-- Unsure, review pls/Eviction Notice.md",
+    "Quest Reports-- Unsure, review pls/Eldorado Overture.md",
+    "Quest Reports-- Unsure, review pls/Early Morning Fishing Trip.md",
+    "Quest Reports-- Unsure, review pls/Dusk Falls.md",
+    "Quest Reports-- Unsure, review pls/Down by the River.md",
+    "Quest Reports-- Unsure, review pls/Down With the Sickness.md",
+    "Quest Reports-- Unsure, review pls/Diamonds or Devils.md",
+    "Quest Reports-- Unsure, review pls/Demanded Migration.md",
+    "Quest Reports-- Unsure, review pls/Dealings with the Drow.md",
+    "Quest Reports-- Unsure, review pls/Dealings with Drow.md",
+    "Quest Reports-- Unsure, review pls/Dashing Through the Snow.md",
+    "Quest Reports-- Unsure, review pls/Damn Kids.md",
+    "Quest Reports-- Unsure, review pls/Crimson & Clover.md",
+    "Quest Reports-- Unsure, review pls/Crazy Diamonds.md",
+    "Quest Reports-- Unsure, review pls/Clownin' Around.md",
+    "Quest Reports-- Unsure, review pls/Cloud Strifenmist.md",
+    "Quest Reports-- Unsure, review pls/Catâ€™s Out of the Bag.md",
+    "Quest Reports-- Unsure, review pls/Bring Out Ye Dead.md",
+    "Quest Reports-- Unsure, review pls/Borderlands.md",
+    "Quest Reports-- Unsure, review pls/Blood and Sand.md",
+    "Quest Reports-- Unsure, review pls/Blightshore Bonanza.md",
+    "Quest Reports-- Unsure, review pls/Birthday Party.md",
+    "Quest Reports-- Unsure, review pls/Bestower of Wealth.md",
+    "Locations/Marquet/Marquet-- Quest Reports",
+    "Locations/Marquet",
     "images/Pasted image 20260902163224.png",
-    "images/Jorge Images.md",
-    "images/Dodaro Images.md",
-    "Characters/PCs/Dodaro.md",
     "images/Pasted image 20260902163134.png",
     "images/Pasted image 20260902163123.png",
     "images/Pasted image 20260902163040.png",
     "images/Pasted image 20260902163004.png",
     "images/Pasted image 20260902154016.png",
-    "images/Pasted image 20260831122133.png",
-    "Character Wikis/Joel Wiki.md",
-    "Characters/PCs/Livrak.md",
-    "PCs/Levels 1-3/TAce.md",
-    "PCs/Glee Voynich.md",
-    "PCs/Livrak.md",
-    "Character Wikis/Jorge Wiki.md",
-    "Character Wikis",
-    "Characters/PCs/Linda Greymoor.md",
-    "Characters/PCs/Glee Voynich.md",
-    "Characters/PCs/Dobin Longfang.md",
-    "Locations/Wildemount/Wildemount Locations/Northwest Dwendalia",
-    "Locations/Wildemount/Wildemount Locations/Northern Dwendalia",
-    "Locations/Wildemount/Wildemount Locations/Menagerie Coast",
-    "Locations/Tal'Dorei/Tal'Dorei Locations",
-    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei",
-    "Locations/Tal'Dorei",
     "images/Pasted image 20260902152948.png",
     "images/Pasted image 20260902152936.png",
-    "Locations/Wildemount/Wildemount Locations/Xhorhas"
+    "images/Pasted image 20260831165544.png",
+    "images/Pasted image 20260831150723.png",
+    "Quest Reports-- Unsure.base",
+    "Quest Reports-- Unsure, review pls",
+    "Locations/Wildemount/Wildemount Locations/Xhorhas",
+    "Locations/Wildemount/Wildemount Locations/Southeastern Dwendalia",
+    "Locations/Wildemount/Wildemount Locations/South west Dwendalia",
+    "Locations/Wildemount/Wildemount Locations/Northwest Dwendalia",
+    "Locations/Wildemount/Wildemount Locations/Northern Dwendalia",
+    "Locations/Wildemount/Wildemount Locations/Menagerie Coast"
   ]
 }
