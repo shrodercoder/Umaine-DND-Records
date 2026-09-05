@@ -8,3 +8,22 @@ Important World Impacts: "22 Specters made their way into the streets of Port Da
 Rewards: "900xp each\n\n280gp to White and Dodaro for staying for the full quest\n\n140gp to Durn, Hoover Cowell, Ferris, and Blast for abandoning the quest after the Specters attacked."
 Optional Observations: "Derpus died how they lived, confusing the rest of the party with their actions\n\nâ€¦I'm gonna have to run a Part 3, aren't I? This was supposed to be a one-shotâ€¦"
 ---
+DM: Dylan G
+Date: 10/9/25
+In-Universe Date: 
+Location: none
+NPCs:
+- rat
+- 22 spectres
+- necromancer
+PCs:
+- 
+Rewards:
+- 900xp each 
+- 280gp to White and Dodaro for staying for the full quest 
+- 140gp to Durn, Hoover Cowell, Ferris, and Blast for abandoning the quest after the Specters attacked.
+Plot Summary:
+**Brief Overview:** The party encountered a rat attempting to post a hastily drawn letter onto the quest board. The letter requested help at the recently shut-down Rockaria Opera House. The group arrived at the abandoned building to find it swarming with undead. After clearing a path to the showroom, they encountered a necromancer putting on a show for the previous owners, whom he had kidnapped, and a hoard of undead spirits. The Bard, Derpus, attempted to make there way dramatically onto the stage only to be ruthlessly mauled to death by 22 Specters. The now hostile ghosts swarmed out of the audience hall, chasing the rest of the party out of the building and into the streets. This chaotic series of events was, however, enough of a distraction to let part of the party sneak in and rescue the quest giver from their harrowing fate. However, the Necromancer of the Opera House remains at large.
+**Important World Impacts** 22 Specters made their way into the streets of Port Damali and have yet to be eliminated. Still roaming the neighborhood.
+**Optional Observations** Derpus died how they lived, confusing the rest of the party with their actions 
+…I'm gonna have to run a Part 3, aren't I? This was supposed to be a one-shot…

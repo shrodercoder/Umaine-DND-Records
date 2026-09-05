@@ -11,13 +11,23 @@ Optional Observations: "Moral dilemmas is fun, turns out that when 3/4 abstain a
 DM: Sam M
 Date: 12/7/25
 In-Universe Date: 
-Location: 
+Location: [[Smoldercrown Mountains]]
 NPCs:
-- 
+- [[Coppercoats]]
 PCs:
-- 
+- [[Kirym]]
+- [[Lumen Svet]]
+- [[Haggar]]
+- [[Ptolemy]]
 Rewards:
-- 
+- 2,200 exp 
+- 40 gp per player 
+- 1 Rare Crafting Component per player 
+- 4 Uncommon Permanents: 
+- Bag of Holding - Haggar 
+- Stone of Good Luck - Kirym 
+- Sending Stones - Ptolemy 
+- Goggles of Night - Lumen
 Plot Summary:
 **Brief Overview:** The party was hired by the city of Bassuras reinforce their efforts to drive a Coppercoat gang platoon out of a mining town in the Smoldercrown Mountains so the city could secure the adamantine recently discovered there. They also wanted to punish the town, which had welcomed the Coppercoats as protectors from Bassuras high quotas and taxes. The party was transported out to Bassuras, informed of their mission, and set out for the mining town to reinforce the gang the city had sent to take the town. After seeing the city and meeting the force they were sent to reinforce the party quickly realized that their employer and allies were just as evil if not more so than the Coppercoats. This was confirmed after the party entered the town to do reconnaissance, as it became clear the Coppercoats were protecting the town rather than oppressing it. After some discussions about payment and morals the party decided to help the Coppercoats rout their erstwhile allies and protect the town. They were then paid by the grateful town and went on their way.
 **Important World Impacts** The Coppercoat gang is now in possession of an adamantine mine that Bassuras is looking to retake.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Wildemount/Wildemount Locations/Menagerie Coast/Port Damali.md",
+                "file": "Templates/Quest Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Port Damali"
+              "title": "Quest Template"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Wildemount/Quest Reports-- Wildemount/Toy Chest.md",
+                "file": "Quest Reports-- Unsure, review pls/Judge Dread.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Toy Chest"
+              "title": "Judge Dread"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "goons and goblins",
+                "query": "i looked awa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,32 +205,32 @@
   },
   "active": "e797b2a895be35b5",
   "lastOpenFiles": [
-    "Locations/Wildemount/Quest Reports-- Wildemount/Thieves in the Mist.md",
-    "Characters/NPCs/People/(META) My note on NPCs.md",
-    "delete later (shitposts)/Vergil.md",
-    "delete later (shitposts)/Template Template.md",
-    "delete later (shitposts)/Sir Parmigiano Reggiano.md",
-    "delete later (shitposts)/Sir Parmigiano Reggiano Images.md",
-    "Violet String.md",
-    "Templates/NPC Template.md",
-    "Locations/Marquet/Marquet-- Quest Reports/(no tags) Diamonds or Devils.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/☆ It's The Same ‘Ol Situation ☆.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/A Dark Prism.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/A Slightly More Complicated Rat Problem.md",
-    "Characters/PCs/Deceased/Lyrius DECEASED.md",
-    "Characters/PCs/Deceased/Jorge Ramalo DECEASED.md",
-    "Character Wikis/Joel Wiki.md",
-    "images/Joel Images.md",
-    "images/Port Damali Images.md",
+    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/(no tags) It's a Cow Farm.md",
+    "Quest Reports-- Unsure, review pls/Jar of Dirt.md",
+    "Templates/Quest Template.md",
+    "Quest Reports-- Unsure, review pls/(no tags) (no location) Rockaria! Part 2 Illusions in G Major.md",
+    "Quest Reports-- Unsure, review pls/(no tags) I was Crazy Once.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/I Looked Away for a Second.md",
+    "Quest Reports-- Unsure, review pls/I looked away for a second.md",
+    "Locations/Marquet/Marquet-- Quest Reports/(no tags) Honor and Greed.md",
+    "Templates/Location Template.md",
     "Locations/Wildemount/Wildemount Locations/Menagerie Coast/Port Damali.md",
-    "Character Wikis/Dodaro Wiki.md",
-    "Louis.md",
-    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Rifenmistery.md",
-    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Fallen Embers.md",
-    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/(no tags) Cloud Strifenmist.md",
-    "Characters/PCs/Livrak.md",
-    "Characters/PCs/Joel Van Morrison.md",
-    "Characters/PCs/Linda Greymoor.md",
+    "delete later (shitposts)/Template Template.md",
+    "delete later (shitposts)/Vergil.md",
+    "delete later (shitposts)/Sir Parmigiano Reggiano Images.md",
+    "delete later (shitposts)/Sir Parmigiano Reggiano.md",
+    "Quest Reports-- Unsure, review pls/(no tags) (no location) Bastion's Pulse.md",
+    "Quest Reports-- Unsure, review pls/(no tags) (no location) Gravitic Bloom.md",
+    "Templates/Faction Template.md",
+    "Templates/NPC Template.md",
+    "Characters/NPCs/Factions/Coinbound.md",
+    "Characters/PCs/Deceased/Gabba Goul DECEASED.md",
+    "Characters/PCs/Deceased/Jorge Ramalo DECEASED.md",
+    "Characters/PCs/Deceased/Lotus DECEASED.md",
+    "Characters/PCs/Deceased/Lyrius DECEASED.md",
+    "Characters/PCs/Deceased/VerKong III DECEASED.md",
+    "Characters/PCs/Billard.md",
+    "Characters/PCs/Daphy.md",
     "Quest Reports-- Unsure.base",
     "delete later (shitposts)/Pasted image 20260903103245.png",
     "delete later (shitposts)",

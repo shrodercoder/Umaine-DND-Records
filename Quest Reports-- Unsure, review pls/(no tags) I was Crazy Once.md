@@ -8,3 +8,30 @@ Important World Impacts: "Elemental-Myconid-Beast hybrids are being created thro
 Rewards: "-- Uncommon Crafting Component each\n\n   -- Common Crafting Component each\n\n   -- Middle Class Contact (Tist) for Seekyr"
 Optional Observations: "It's easier to get the right answer by doing something wrong. No such thing as a failure when every move is a power-move."
 ---
+DM: Curtis T
+Date: 10/16/25
+In-Universe Date: 
+Location: [[Blightshore]]
+NPCs:
+- [[Tist]]
+- Rats
+PCs:
+- [[Xavier]]
+- [[Violet String]] <3
+- [[Sticky]]
+- [[Edward Lake]]
+- [[Dobin Longfang]]
+- [[Seekyr]]
+Rewards:
+- 1900 EXP 
+- 75 GP each 
+- Uncommon Consumables: 
+- 1 Elemental Gem, Red Corundum each 
+- Crafting Components: 
+- Uncommon Crafting Component each 
+- Common Crafting Component each 
+- Middle Class Contact (Tist) for Seekyr
+Plot Summary:
+**Brief Overview:** The party was hired by Tist the Scientist to capture, alive or dead, strange myconid-elemental-rats appearing in the Blightshore. They came across a CR 22(?) flaming giant rat statblock, and managed to kill it, only gaining a minor 1900EXP in the process. After its death, it released flaming spores, turning its corpse into a flaming tree-mushroom hybrid that the party brought back to Tist alongside some smaller paralyzed myconid-elemental-rat hybrids.
+**Important World Impacts** Elemental-Myconid-Beast hybrids are being created through unknown means in the Blightshore. More on this when players start hitting level 10+.
+**Optional Observations** It's easier to get the right answer by doing something wrong. No such thing as a failure when every move is a power-move.
