@@ -8,3 +8,17 @@ Important World Impacts: "The Motley Crue are bolstering recruitment efforts and
 Rewards: ""
 Optional Observations: "1500xp \n\n1 Middle Class Coursing Contact w/ The Motley Crue\n\n560gp each, (Excluding Owen)\n\n4 Horns of Gunpowder + 420gp for Owen"
 ---
+DM:
+Date: 
+In-Universe Date: 
+Location:
+NPCs:
+- 
+PCs:
+- 
+Rewards:
+- 
+Plot Summary:
+**Brief Overview:** 
+**Important World Impacts**
+**Optional Observations**
