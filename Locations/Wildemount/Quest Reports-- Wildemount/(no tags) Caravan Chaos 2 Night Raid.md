@@ -19,7 +19,7 @@ PCs:
 - [[Ahkran]]
 - [[Linda Greymoor]]
 - [[𝔇]]
-- [[Weebil]]
+- [[Weebil DECEASED]]
 - [[Guenhyvari]]
 - [[ADAM]]
 - [[Folsen]]

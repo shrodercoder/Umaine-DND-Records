@@ -23,7 +23,7 @@ PCs:
 - [[Hoover Cowell]]
 - [[Ulysses]]
 - [[Rocka]]
-- [[Hildegard]]
+- [[Hildagard]]
 - [[Arvad Petrovich]]
 Rewards:
 - 900 exp per

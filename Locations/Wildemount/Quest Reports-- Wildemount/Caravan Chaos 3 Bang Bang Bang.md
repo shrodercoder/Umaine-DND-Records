@@ -16,7 +16,7 @@ NPCs:
 - Kobold gang
 - Guards
 PCs:
-- [[Weebil]]
+- [[Weebil DECEASED]]
 - [[Kirym]]
 - [[Spiegal]]
 - [[Guenhyvari]]

@@ -20,7 +20,7 @@ NPCs:
 PCs:
 - [[Amelia Stoneheart]]
 - [[Gaxin Shovar]]
-- [[Hildegard]]
+- [[Hildagard]]
 - [[Stryke]]
 - [[Rathhuil]]
 Rewards:

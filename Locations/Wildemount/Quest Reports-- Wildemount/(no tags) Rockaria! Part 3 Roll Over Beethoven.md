@@ -8,3 +8,25 @@ Important World Impacts: "All 22 Specters and the Necromancer terrorizing Damali
 Rewards: "900xp \n\n1 Moon-Touched Weapon each \n\n180gp each"
 Optional Observations: "I'm finally free from Rockariaâ€¦"
 ---
+DM: Dylan G
+Date: 10/23/25
+In-Universe Date: 
+Location: [[Port Damali]]
+NPCs:
+- 22 spectres
+- Port Damali trade guilds
+- Necromancer
+PCs:
+- [[White]]
+- [[Stryke]]
+- [[Ulysses]]
+- [[Raiju]]
+- [[Hildegard]]
+Rewards:
+- 900xp 
+- 1 Moon-Touched Weapon each 
+- 180gp each
+Plot Summary:
+**Brief Overview:** The trade guilds of Damali have pooled a sum of money to hire coinbound to exterminate the swath of specters that have been roaming the streets at night. After patrolling the perimeter and exercising roaming ghosts, they made their way into the Rockaria Opera House and finished off the necromancer and the remaining apparitions.
+**Important World Impacts** All 22 Specters and the Necromancer terrorizing Damali have been vanquished
+**Optional Observations** I'm finally free from Rockaria…

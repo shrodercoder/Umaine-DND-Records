@@ -11,7 +11,7 @@ Optional Observations: "Derpus died how they lived, confusing the rest of the pa
 DM: Dylan G
 Date: 10/9/25
 In-Universe Date: 
-Location: none
+Location: [[Port Damali]]
 NPCs:
 - rat
 - 22 spectres

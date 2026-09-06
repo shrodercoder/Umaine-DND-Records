@@ -11,7 +11,7 @@ PCs:
 - [[Lyrius DECEASED]]
 - [[Guenhyvari]]
 - [[𝔇]]
-- [[Weebil]]
+- [[Weebil DECEASED]]
 - [[Dodaro]]
 Rewards:
 - 600 exp 

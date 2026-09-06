@@ -11,7 +11,7 @@ PCs:
 - [[Kara]]
 - [[JOHN EXANDRIA]]
 - [[雷神の火の木]]
-- [[Weebil]]
+- [[Weebil DECEASED]]
 - [[𝔇]]
 - [[Glee Voynich]]
 Rewards:

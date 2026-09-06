@@ -32,7 +32,7 @@ NPCs:
 PCs:
 - [[Svit]]
 - [[Thelia Gelane]]
-- [[Weebil]]
+- [[Weebil DECEASED]]
 - [[Aspen]]
 - [[Wren]]
 - [[Sticky]]

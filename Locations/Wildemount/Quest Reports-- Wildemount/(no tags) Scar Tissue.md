@@ -8,3 +8,24 @@ Important World Impacts: "The Felderwin is sickened with a plague ignited by the
 Rewards: "3300xp\n\n1 Orzhov Charm each\n\n1560gp each"
 Optional Observations: "Weebil has been reduced to a shelf ornament"
 ---
+DM: Dylan G
+Date: 1/30/26 (2 sessions)
+In-Universe Date: 
+Location: [[Felderwin]]
+NPCs:
+- Vice-Aurum Bach
+PCs:
+- [[Weebil DECEASED]]
+- [[Guenhyvari]]
+- [[Hoover Cowell]]
+- [[Linda Greymoor]]
+- [[Violet String]]
+- [[Lucky]]
+Rewards:
+- 3300xp 
+- 1 Orzhov Charm each 
+- 1560gp each
+Plot Summary:
+**Brief Overview:** A plague has overtaken the Felderwin, straining the people and the land to the breaking point. The party was hired by Felderwin nobility to unearth information on the source of this disease. After questioning the townsfolk and prominent nobles, they traced it to its ground zero, where they fought a mutated strain of the plague, followed by the Motley Crue. The party defeated the dispatchment of goons and traced them back to their camp, where they encountered the man behind it all, Vice-Aurum Bach. Determined to stop the Vice-Aurum here and now, they prevented the mastermind from fleeing and defeated his henchmen, escalating the spellcaster to drastic measures. Bach, as a final effort disintegrated Weebil into dust. The party, devastated by the loss, returned and received pay for the information uncovered.
+**Important World Impacts** The Felderwin is sickened with a plague ignited by the Motley Crue and a bounty has been placed on Vice-Aurum Bach, Dead or Alive.
+**Optional Observations** Weebil has been reduced to a shelf ornament

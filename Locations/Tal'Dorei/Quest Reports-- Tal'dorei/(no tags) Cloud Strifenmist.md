@@ -21,7 +21,7 @@ PCs:
 - [[Shade]]
 - [[Daphy]]
 - [[Billard]]
-- [[Weebil]]
+- [[Weebil DECEASED]]
 - [[Cherno]]
 - [[Roland]]
 Rewards:

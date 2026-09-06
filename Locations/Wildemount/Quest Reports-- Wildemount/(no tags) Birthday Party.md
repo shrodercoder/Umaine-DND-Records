@@ -18,7 +18,7 @@ NPCs:
 - Baby dragon turtle
 PCs:
 - [[Blast Edward Marksman]]
-- [[Weebil]]
+- [[Weebil DECEASED]]
 - [[Aglyph]]
 Rewards:
 - 1800 exp 
