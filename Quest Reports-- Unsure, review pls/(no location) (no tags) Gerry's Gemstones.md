@@ -15,7 +15,7 @@ Location:
 NPCs:
 - Wealthy Merchant
 PCs:
-- [[Tuna Melt]]
+- [[Tuna Melt DECEASED]]
 - [[Leika Petalis]]
 - [[Robin Free Hands]]
 - [[White]]

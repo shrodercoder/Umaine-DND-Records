@@ -8,3 +8,28 @@ Important World Impacts: "- An aboleth has returned to the depths below Emon and
 Rewards: "-- Gauntlets of Rage"
 Optional Observations: ""
 ---
+DM: Jacob O
+Date: 1/22/26
+In-Universe Date: 
+Location: [[Emon]]
+NPCs:
+- [[The Clasp]]
+- Aboleth
+PCs:
+- [[Kirym]]
+- [[Deathclaw]]
+- [[The Host]]
+- [[Tat]]
+- [[Sylvester]]
+Rewards:
+- 5,400 exp per
+- 3,640 gp per player (Tat receives 640 gp) 
+- 1 Rare Crafting Component per player (excl. Tat) 
+- 2 Weeks (14 days) Downtime per player 
+- Gauntlets of Rage
+Plot Summary:
+**Brief Overview:** The Clasp in Emon reported to having strange visions and hearing voices in the underground sewers.
+**Important World Impacts** 
+- An aboleth has returned to the depths below Emon and started planning something.... 
+- Reza is on a watchlist in Emon by the Clasp
+**Optional Observations**

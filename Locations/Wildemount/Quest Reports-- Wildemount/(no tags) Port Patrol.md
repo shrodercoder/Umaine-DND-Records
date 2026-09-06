@@ -8,3 +8,24 @@ Important World Impacts: "none"
 Rewards: "â€¢ 1,500 exp + 560 gp per player"
 Optional Observations: "no"
 ---
+DM: June M
+Date: 10/31/25
+In-Universe Date: 
+Location: [[Port Damali]]
+NPCs:
+- Bandits
+- [[Emelia Chanelle]]
+PCs:
+- [[Morella]]
+- [[ADAM]]
+- [[Oribar]]
+- [[Titus]]
+- [[Hoover Cowell]]
+- [[Zada]]
+Rewards:
+- 1,500 exp per
+- 560 gp per player
+Plot Summary:
+**Brief Overview:** Party hired to stop some bandits causing trouble in the Tumbledowns. They succeeded in clearing out the gang, and provided a distraction for the Guildmaster to catch some wanted criminals in league with the gang,
+**Important World Impacts** None
+**Optional Observations**

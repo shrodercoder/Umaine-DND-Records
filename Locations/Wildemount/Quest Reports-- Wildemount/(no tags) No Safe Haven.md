@@ -21,3 +21,25 @@ Important World Impacts: Undead attacks continue in the area around Yrrosa.
 Rewards: -- 3x Bag of Holding
 Optional Observations: Sylvester Falcone is a national treasure. Also sweaters are peak
 ---
+DM: Ben N
+Date: 10/22/25
+In-Universe Date: 
+Location: [[Yrrosa]], [[Icehaven]]
+NPCs:
+- [[Dwendalian Empire]] representative
+PCs:
+- [[Thelia Gelane]]
+- [[Deathclaw]]
+- [[Sylvester]]
+- [[Kewi]]
+- [[Leika Petalis]]
+- [[Shade]]
+- [[Joel Van Morrison]]
+Rewards:
+- 1900 exp
+- 1600gp total 
+- 3x Bag of Holding
+Plot Summary:
+**Brief Overview:** The party was hired by a representative of the [[Dwendalian Empire]] to escort a research team from Yrrosa to Icehaven. Along the way they were attacked by a group of undead, including a hydra, which were soundly defeated.
+**Important World Impacts** Undead attacks continue in the area around Yrrosa.
+**Optional Observations** Sylvester Falcone is a national treasure. Also sweaters are peak

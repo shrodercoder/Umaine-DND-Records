@@ -8,3 +8,22 @@ Important World Impacts: "None"
 Rewards: "â€¢ 600 exp + 120 gp per player"
 Optional Observations: "Oops! All spell-casters vs swarm rules + over-leveled characters are pretty one sided. I had to pull out the watered-down meme stat block to even deal damage."
 ---
+DM: Curtis T
+Date: 12/4/25
+In-Universe Date: 
+Location: [[Menagerie Coast]]
+NPCs:
+- [[Mario de Rapheli o Speget von Spaghettio]]
+- [[Micheali]]
+- Sneaky Little Bastard
+PCs:
+- [[Balem]]
+- [[Roland]]
+- [[Lucky]]
+Rewards:
+- 600 exp per
+- 120 gp per player
+Plot Summary:
+**Brief Overview:** The party was hired by Mario de Rapheli o Speget von Spaghettio to find out why so many bugs were appearing around his restaurant despite his cleaning efforts. The party helped cleaned-up trash, examined the walls and followed half-orc-teenager-shaped tracks into the woods, all to no avail. When they returned, insects had already begun to swarm the restaurant. They fought off several swarms of insects. During the battle, a goblin of sorts broke a window and ran away. After a prolonged battle with swarmed insects, the dreadful Sneaky Little Bastard attacked the party, but was ultimately defeated by a magic missile spell. The party did not figure out that the reason why so many insects were coming in was from Mario's half-orc son Michaeli's wasteful eating habits, but were paid regardless.
+**Important World Impacts** None
+**Optional Observations** Oops! All spell-casters vs swarm rules + over-leveled characters are pretty one sided. I had to pull out the watered-down meme stat block to even deal damage.

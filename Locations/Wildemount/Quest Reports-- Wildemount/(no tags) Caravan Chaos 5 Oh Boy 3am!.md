@@ -8,3 +8,29 @@ Important World Impacts: "none"
 Rewards: "-- (10x) Dreadhelm\n\n   -- (10x) Cloak of Billowing"
 Optional Observations: "remind me to do this never"
 ---
+DM: June M
+Date: 11/7/25
+In-Universe Date: 
+Location: [[Wildemount]]
+NPCs:
+- caravan
+PCs:
+- [[Percival]]
+- [[F'roshe]]
+- [[Woodrow]]
+- [[Fern Oceanwind]]
+- [[The Host]]
+- [[Hildagard]]
+- [[Violet String]]
+- [[John Human]]
+- [[Stryke]]
+- [[Ahkran]]
+Rewards:
+- 900 exp per
+- 80 gp per player
+- (10x) Dreadhelm 
+- (10x) Cloak of Billowing
+Plot Summary:
+**Brief Overview:** 3am Chaos and a caravan raid
+**Important World Impacts** none
+**Optional Observations** remind me to do this never

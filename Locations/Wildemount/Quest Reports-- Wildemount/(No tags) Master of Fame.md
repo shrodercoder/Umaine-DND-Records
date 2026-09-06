@@ -21,3 +21,28 @@ Important World Impacts: A new group of thieves has been spotted near the area o
 Rewards: -- (2x) Mind Crystal (Subtle)
 Optional Observations: DM Viewer swapped from Allison O to June M.
 ---
+DM: Owen T
+Date: 11/24/25
+In-Universe Date: 
+Location: [[Port Zoon]]
+NPCs: 
+- Auguste
+- Simeon
+- [[Oskha]]
+PCs:
+- [[Svit]]
+- [[Thelia Gelane]]
+- [[Weebil]]
+- [[Aspen]]
+- [[Wren]]
+- [[Sticky]]
+Rewards:
+- 1,500 exp per
+- 460 gp per player (excl. Aspen & Weebil) 
+- 360 gp to Aspen
+- 410 gp to Weebil 
+- (2x) Mind Crystal (Subtle)
+Plot Summary:
+**Brief Overview:** The party was hired by Auguste and Simeon to help clear a band of thieves out of their ransacked magic lab and hopefully recover the research hidden in it. They made it to the lab, meeting a Ranger Oskha along the way who warned them of the Scarlet Wings, a gang of ex soldiers who've turned their talent on the battlefield into thievery roaming the nearby area. After descending into the lab and easily dispatching the front guard, they searched the area and found a suspicious note from someone titled "The Have-Not". After a short interrogation of Auguste and Simeon the party reluctantly continued downwards into a hidden basement, where the majority of the thieves were and Auguste revealed that he sold them out in order to take all the credit and fame for the research he had done. After an unsuccessful ambush and a less successful monologue he was defeated. The lab however was already cleared of its research beforehand, yet the party was rewarded for their efforts in clearing the thieves out.
+**Important World Impacts** A new group of thieves has been spotted near the area of Port Zoon, I'm sure they won't be causing many more problems.
+**Optional Observations** DM Viewer swapped from Allison O to June M.

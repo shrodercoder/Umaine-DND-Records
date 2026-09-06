@@ -8,3 +8,33 @@ Important World Impacts: "N/A"
 Rewards: "-- Gloves of Thievery\n\n   -- Stone of Good Luck\n\n   -- Goggles of Night\n\n   -- (2x) Cloak of Protection\n\n   -- Rakdos Keyrune\n\n   -- Dragonhide Belt, +1\n\n   -- Boots of Elvenkind"
 Optional Observations: "9-member session was <3 hours, I'm so good"
 ---
+DM: Allison O
+Date: 12/4/25
+In-Universe Date: 
+Location: dunno
+NPCs:
+- Mistborn kobolds
+PCs:
+- [[Crystal]]
+- [[Branch Tumblestone]]
+- [[Fern Oceanwind]]
+- [[Haggar]]
+- [[Stump]]
+- [[Hildagard]]
+- [[Violet String]]
+- [[Trunk]]
+- [[Zada]]
+Rewards:
+- 1,900 exp per player 
+- 400 gp to Fern 
+- Gloves of Thievery 
+- Stone of Good Luck 
+- Goggles of Night 
+- (2x) Cloak of Protection 
+- Rakdos Keyrune 
+- Dragonhide Belt, +1 
+- Boots of Elvenkind
+Plot Summary:
+**Brief Overview:** The party was hired to train the next generation of Kobold sneak thieves. What they were actually hired to do, however, was play games with a group of orphaned Kobold children. The party played a game of hide and seek and later skipping rocks. They won both games, though the rock skipping contest was close with a 5-4 score on the party's behalf. Afterwards, the Mistborn Kobolds rewarded the party with some of their stolen spoils from previous thieving heists.
+**Important World Impacts** N/A
+**Optional Observations** 9-member session was <3 hours, I'm so good

@@ -8,3 +8,26 @@ Important World Impacts: "None."
 Rewards: "â€¢ 1,900 exp per player\n\nNo gold rewards because they hurt the reward giver emotionally."
 Optional Observations: "Surprisingly emotional session. I can't believe they genuinely failed a 1/5. First 1/5 of the setting, too, if I'm seeing this right."
 ---
+DM: Curtis T
+Date: 10/23/25
+In-Universe Date: 
+Location: [[Menagerie Coast]]
+NPCs:
+- Dick Heather
+PCs:
+- [[Roh-Bob]]
+- [[Hoover Cowell]]
+- [[Woodrow]]
+- [[Zym]]
+- [[Zada]]
+- [[Cal'Van]]
+- [[Roland]]
+- [[York Dole]]
+- [[Robin Free Hands]]
+Rewards:
+- 1,900 exp per player 
+- No gold rewards because they hurt the reward giver emotionally.
+Plot Summary:
+**Brief Overview:** The party took a quest to honor the late Mr White Stone, asking the party to check up on a friend. They headed far outside the boundaries of the port town where they located a small fishing hut, and met Dick Heather, a large and candid 44-year-old fisherman. Zada and Dick cooked a super massive cake for all the party members, and York ate 80% of it. The party spent time catching small fish in a minor competition, until Dick dove under the water and tangled their lines together. Nobody really fell for the prank, as most of the party simply let go of their fishing rods. Robin and York got into a minor scrap where they tried to shove each other off the boat, where York tried to escalate by using Shocking Grasp on Robin. The fight was stopped by Dick, and when the party eventually returned, Zada and Dick cooked the caught fish while Robin stole a thing of cooking wine. Now being confronted by Hoover Cowell and York, Robin continued bickering and fighting until York cast Shocking Grasp on him, causing Dick to storm out from the kitchen and confront the party. Zada cast calm emotions, stopping the fight. He kicked the party out of the house, telling them to never return.
+**Important World Impacts** None
+**Optional Observations** Surprisingly emotional session. I can't believe they genuinely failed a 1/5. First 1/5 of the setting, too, if I'm seeing this right.

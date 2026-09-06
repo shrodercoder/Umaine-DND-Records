@@ -8,3 +8,27 @@ Important World Impacts: "Trade routes north of Port Damali have been sacked by 
 Rewards: "-- 8x Cloak of billowing"
 Optional Observations: ""
 ---
+DM: June M
+Date: 10/9/25
+In-Universe Date: 
+Location: [[Wildemount]]
+NPCs: 
+- Blackmailer
+- A caravan
+PCs:
+- [[Ahkran]]
+- [[Linda Greymoor]]
+- [[𝔇]]
+- [[Weebil]]
+- [[Guenhyvari]]
+- [[ADAM]]
+- [[Folsen]]
+- [[Livrak]]
+Rewards:
+- 1900 exp per
+- 300 gp per player
+- 8x Cloak of billowing
+Plot Summary:
+**Brief Overview:** the team was blackmailed at gunpoint and told to blow up a caravan. they did so with much efficiency and minimal casualties
+**Important World Impacts** Trade routes north of [[Port Damali]] have been sacked by a band of mercenaries
+**Optional Observations** 

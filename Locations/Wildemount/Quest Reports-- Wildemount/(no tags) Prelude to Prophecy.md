@@ -22,3 +22,24 @@ Rewards: |-
   â€¢ 2 Uncommon Monster Parts per player
 Optional Observations: sadly I didnâ€™t get a change to use the echo knight stat-blocks I hade preparedâ€¦
 ---
+DM: Jacob O
+Date: 10/17/25
+In-Universe Date: 
+Location: [[Port Damali]]
+NPCs:
+- [[Kryn Dynasty]]
+PCs:
+- [[Raiju]]
+- [[Linda Greymoor]]
+- [[Drand]]
+- [[Daphy]]
+- [[Selene]]
+- [[Dame Elizabeth]]
+Rewards:
+- 1,900 exp per
+- 200 gp per player 
+- 2 Uncommon Monster Parts per player
+Plot Summary:
+**Brief Overview:** the party was hired by agents of the newly established Kryn Dynasty Embassy in Port Damali to test the coin bounds skills in battle against the soldiers of the Dynasty.
+**Important World Impacts** the dynasty is considering using Coin-bound as hired assistants similar to the Dwendalian Empire. They have begun preparing for a large scale operation in secret.
+**Optional Observations** sadly I didn’t get a change to use the echo knight stat-blocks I hade prepared…

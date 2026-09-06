@@ -8,3 +8,25 @@ Important World Impacts: "The Motley Crue has found allies in the Feolinn region
 Rewards: "â€¢ 1,500 exp + 560 gp per player"
 Optional Observations: "Warding Wind is a funny spell"
 ---
+DM: Owen T
+Date: 12/3/25
+In-Universe Date: 
+Location: [[Feolinn]]
+NPCs:
+- Bargello
+- [[Motley Crue]]
+- [[Oskha]]
+PCs:
+- [[Ferris Faulkner]]
+- [[Beauregard]]
+- [[Glee Voynich]]
+- [[Pierre]]
+- [[Ptolemy]]
+- [[Gaxin Shovar]]
+Rewards:
+- 1,500 exp per
+- 560 gp per player
+Plot Summary:
+**Brief Overview:** The party was hired by a merchant Bargello to root out some nearby thieves so his caravans could safely pass through the roads along the Plumgroves. The party alongside their guide Oskha were able to discern a Motley Crue ambush, yet with backup from an unknown group of mages the party was pushed to a difficult fight. After resting they marched forth, finding more rogue Motley Crue goons and eventually making their way to their hideout. Upon seeing the bulk of the thieves forces there alongside more allied mages and snipers the party decided against a direct confrontation. Instead they incinerated the walls of the hideout, and while the Motley Crue was able to scavenge supplies, the base went up in flames. Bargello was disappointed with their inability to completely destroy the Motley Crue's foothold in the area; yet he acknowledged that much progress was made, and paid the party in full.
+**Important World Impacts** The Motley Crue has found allies in the Feolinn region, at least for however long they may last.
+**Optional Observations** Warding Wind is a funny spell

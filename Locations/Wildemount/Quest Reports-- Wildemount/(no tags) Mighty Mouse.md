@@ -8,3 +8,27 @@ Important World Impacts: "More types of hybrid rats are appearing in a very part
 Rewards: "-- Hew\n\n   -- Javelin of Lightning\n\n   -- Nature's Mantle\n\n   -- Primal Amulet\n\nâ€¢  1 Uncommon Monster Part each"
 Optional Observations: "I expected to down a few people with the CR to level gap. I did not expect the suicide stratâ„¢ by April L, who voluntarily killed their own character. Roh-Bob also almost became the next Honda Civic."
 ---
+DM: Curtis T
+Date: 11/27/25
+In-Universe Date: 
+Location: [[Blightshore]]
+NPCs:
+- Tist
+PCs:
+- [[Haggar]]
+- [[Gaxin Shovar]]
+- [[Roh-Bob]]
+- [[Hildagard]]
+- [[Tuna Melt DECEASED]]
+Rewards:
+- 1500 exp per
+- 60 gp per player - Weapon Cost 
+- Hew 
+- Javelin of Lightning 
+- Nature's Mantle 
+- Primal Amulet 
+- 1 Uncommon Monster Part each
+Plot Summary:
+**Brief Overview:** The party was hired by Tist to return the body of the flying giant myconid-elemental-rat hybrid dubbed the Mighty Mouse, who has been attempting to spread air elemental spores across the Blightshores, which small fire elemental myconid hybrid rats have been deliberately destroying. The party was attacked by the beast, wounding it severely and forcing it to retreat. The party tracked down the beast before it could fully recover and destroyed it. On its death, it became a large air mushroom with its remaining life energy, which was quickly cut down by Roh-Bob. The party then harassed several mushroom colonies, causing a reaction by both fire and lightning/air colonies. Tuna melt foolishly jumped into arcing lightning, killing them, and the party fled at the sight of smoke and flames coming out of a deep hole.
+**Important World Impacts** More types of hybrid rats are appearing in a very particular and out-of-the-way beached region of the Blightshore, actively spreading elemental spores. They will not successfully spread far from their source due to competition, inhabitable environments, and coinbound interference.
+**Optional Observations** I expected to down a few people with the CR to level gap. I did not expect the suicide strat™ by April L, who voluntarily killed their own character. Roh-Bob also almost became the next Honda Civic.
