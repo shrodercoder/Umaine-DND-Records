@@ -20,7 +20,7 @@ PCs:
 - [[Woodrow]]
 - [[Fern Oceanwind]]
 - [[The Host]]
-- [[Hildagard]]
+- [[Hildagard DECEASED]]
 - [[Violet String]]
 - [[John Human]]
 - [[Stryke]]

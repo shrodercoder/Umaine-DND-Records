@@ -20,7 +20,7 @@ PCs:
 - [[Ferris Faulkner]]
 - [[Beauregard]]
 - [[Glee Voynich]]
-- [[Pierre]]
+- [[Pierre Mudvayne]]
 - [[Ptolemy]]
 - [[Gaxin Shovar]]
 Rewards:

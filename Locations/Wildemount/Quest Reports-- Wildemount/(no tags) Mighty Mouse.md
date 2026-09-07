@@ -18,7 +18,7 @@ PCs:
 - [[Haggar]]
 - [[Gaxin Shovar]]
 - [[Roh-Bob]]
-- [[Hildagard]]
+- [[Hildagard DECEASED]]
 - [[Tuna Melt DECEASED]]
 Rewards:
 - 1500 exp per

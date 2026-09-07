@@ -27,26 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quest Reports-- Unsure, review pls/Scribblers.md",
+                "file": "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) Storms a Brewin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scribblers"
+              "title": "(no tags) Storms a Brewin"
             }
           },
           {
-            "id": "e881fb2138167b02",
+            "id": "78446c68e0aa7351",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Quest Reports-- Unsure, review pls/Street Sweeper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Street Sweeper"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "someone let the dogs out\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,36 +217,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "e797b2a895be35b5",
+  "active": "78446c68e0aa7351",
   "lastOpenFiles": [
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) Appetite For Destruction.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) Peter the Horse is Here.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) Rockaria! Part 3 Roll Over Beethoven.md",
-    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/(no tags) It's a Cow Farm.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) Bestower of Power.md",
-    "Quest Reports-- Unsure, review pls/(no tags) (no location) Frogger.md",
-    "Hildegard.md",
-    "Quest Reports-- Unsure, review pls/(no tags) (no location) Gravitic Bloom.md",
-    "Quest Reports-- Unsure, review pls/(no tags) (no location) Mimic Monday.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags)Rockaria! Part 2 Illusions in G Major.md",
-    "Quest Reports-- Unsure, review pls/(no tags) Borderlands.md",
-    "Quest Reports-- Unsure, review pls/(weird location) (no tags) Just a normal fishing trip.md",
-    "Quest Reports-- Unsure, review pls/(weird, fix it) Lost and Found.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) I was Crazy Once.md",
-    "Quest Reports-- Unsure, review pls/Scribblers.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) Scar Tissue.md",
-    "Weebil DECEASED.md",
     "Templates/Quest Template.md",
-    "Locations/Marquet/Marquet-- Quest Reports/(no tags) Sand Struggle.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) Rookie Roundup.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(weird) Rockaria!.md",
-    "Quest Reports-- Unsure, review pls/(no location) (no tags) Roads go Ever Ever On.md",
-    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/(no tags) Rifenmistery.md",
-    "Locations/Tal'Dorei/Tal'Dorei Locations/Rifenmist.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags)Ratatouille.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) (date) Psycho Sickness.md",
-    "Quest Reports-- Unsure.base",
+    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) Storms a Brewin.md",
+    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Fallen Embers.md",
+    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/(no tags) Someone Let the Dogs Out.md",
+    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Rifenmistery.md",
+    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/Someone Let the Dogs Out.md",
+    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/(no tags) So You Want to Start a War.md",
+    "Quest Reports-- Unsure, review pls/(weird location) (no tags) Just a normal fishing trip.md",
+    "Locations/Marquet/Marquet-- Quest Reports/(no tags) Borderlands.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) Caravan Chaos 4 Showdown.md",
+    "Quest Reports-- Unsure, review pls/(no location) (no tags) Shot in the Dark.md",
+    "Quest Reports-- Unsure, review pls/(come back to this one) First Time at the Rodeo.md",
+    "Locations/Marquet/Marquet-- Quest Reports/(no tags) Second Time at the Rodeo.md",
+    "Templates/Player Template.md",
+    "delete later (shitposts)/Vergil.md",
+    "delete later (shitposts)/Template Template.md",
+    "delete later (shitposts)/Sir Parmigiano Reggiano Images.md",
+    "delete later (shitposts)/Sir Parmigiano Reggiano.md",
     "delete later (shitposts)/Pasted image 20260903103245.png",
+    "Characters/PCs/Pierre Mudvayne.md",
+    "Characters/PCs/Tace.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) (verify location) Scribblers.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) Master of Wealth.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) Rookie Roundup.md",
+    "Quest Reports-- Unsure, review pls/(no tags) (no location) Bastion's Pulse.md",
+    "Quest Reports-- Unsure, review pls/(no tags) (no location) Gravitic Bloom.md",
+    "Quest Reports-- Unsure, review pls/The Brilliant Strand.md",
+    "Quest Reports-- Unsure.base",
     "delete later (shitposts)",
     "Locations/Wildemount/Wildemount Locations/Marrow Valley",
     "Locations/Wildemount/Wildemount Locations/Graying Wildlands",

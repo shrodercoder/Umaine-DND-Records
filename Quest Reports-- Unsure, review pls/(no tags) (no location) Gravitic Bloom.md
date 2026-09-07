@@ -35,7 +35,7 @@ PCs:
 - [[Sharon]]
 - [[Bubbadawbadub]]
 - [[Thelia Gelane]]
-- [[Pierre]]
+- [[Pierre Mudvayne]]
 - [[Haggar]]
 - [[Ahkran]]
 - [[Dr. Felix Barnabus]]

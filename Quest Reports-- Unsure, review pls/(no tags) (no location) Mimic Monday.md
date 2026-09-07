@@ -19,7 +19,7 @@ PCs:
 - [[Ulta]]
 - [[Robin Free Hands]]
 - [[Stump]]
-- [[Hildagard]]
+- [[Hildagard DECEASED]]
 - [[Trunk]]
 - [[Abraxes]]
 Rewards:

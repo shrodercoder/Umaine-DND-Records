@@ -8,3 +8,44 @@ Important World Impacts: "Undead crew gets one more piece of the ship's wheel. V
 Rewards: "- 1x Positive Contact with Henrik, Lomas (Village Chief)\n\n- 1x Positive Contact with Rialla (Everyone Besides Seekyr and Froche)\n\n- 1x Positive Contact with Aryiana (Elizabeth)\n\n- 1x Positive Contact with Tom (Child) (Elizabeth, John)"
 Optional Observations: "Fantastic party, Edward is actually kind of chill, I made a player cry (but in a good way)"
 ---
+DM: Ben N
+Date: 10/29/25 (2 sessions)
+In-Universe Date: 
+Location: [[Menagerie Coast]]
+NPCs:
+- Henrik
+- [[Vermillion Trading Company]]
+- Lomas
+- Relesar
+- Charity
+PCs:
+- [[Jackie Kong]]
+- [[Edward Lake]]
+- [[Daphy]]
+- [[F'roshe]]
+- [[Dame Elizabeth]]
+- [[Seekyr]]
+- [[JOHN EXANDRIA]]
+- [[Cedric]]
+Rewards:
+- 3300xp each (excl Cedric)
+- 940gp each (excl Cedric)
+- 1500xp (Cedric) -
+- 560gp (Cedric)
+- 1x UC Crafting Component
+- 1 week of downtime
+- 1x +1 Amulet of the Devout (Daphy)
+- 1x Gauntlets of Ogre Power (Froche)
+- 1x Stone of Good Luck (John)
+- 1x +1 Longsword (Elizabeth)
+- 1x +1 Arcane Grimoire (Seekyr)
+- 1x Cloak of Protection (Edward)
+- 1x +1 Wraps of Unarmed Prowess (Jackie)
+- 1x Positive Contact with Henrik, Lomas (Village Chief)
+- 1x Positive Contact with Rialla (Everyone Besides Seekyr and Froche)
+- 1x Positive Contact with Aryiana (Elizabeth)
+- 1x Positive Contact with Tom (Child) (Elizabeth, John)
+Plot Summary:
+**Brief Overview:** Party was hired by Henrik, freelance captain and former contractee for Vermillion to visit an old friend, the village chief of Laiden's Landing on the Menagerie Coast. A two day journey and some funny fishing later, the party arrived at the village and met the chief Lomas, who was guarding a mysterious box. Freelance mercenaries hired by Vermillion arrived and engaged in combat, but after a couple of mercenaries died they surrendered. At that point, three pirate ships attacked the coast and the party fled after defeating several crew members from one of the vessels. The party encountered funny undead man (Relesar) and very much not funny undead pirate lady (Charity), the latter of which retrieved the box. The villagers undertook to rebuilding the damage and Henrik paid the party for their help.
+**Important World Impacts** Undead crew gets one more piece of the ship's wheel. Village was severly damaged but is able to rebuild.
+**Optional Observations** Fantastic party, Edward is actually kind of chill, I made a player cry (but in a good way)

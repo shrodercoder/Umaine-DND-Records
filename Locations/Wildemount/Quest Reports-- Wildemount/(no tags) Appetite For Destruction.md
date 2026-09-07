@@ -22,7 +22,7 @@ PCs:
 - [[Rathhuil]]
 - [[Hors d'Oeuvres]]
 - [[Lumen Svet]]
-- [[Hildagard]]
+- [[Hildagard DECEASED]]
 Rewards:
 - 1500xp 
 - Keoghtom's Ointment

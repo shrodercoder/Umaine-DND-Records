@@ -26,3 +26,29 @@ Rewards: |-
   â€¢ 1 Middle Class Contact (Juris Habar) per player
 Optional Observations: No one picked a fight with anyone who would kill them, great success
 ---
+DM: Sam M
+Date: 11/20/25
+In-Universe Date: 
+Location: [[Hellcatch Valley]]
+NPCs:
+- Dead River Rodeo
+- Mr. Gonti
+- [[Coppercoats]]
+- [[Thunderheads]]
+- [[Hellspurs]]
+PCs:
+- [[Svit]]
+- [[Lyssa]]
+- [[Bromwell]]
+- [[Bubbadawbadub]]
+- [[Thelia Gelane]]
+- [[Pierre Mudvayne]]
+- [[Ptolemy]]
+Rewards:
+- 1900 exp per
+- 400gp per
+- 1 Middle Class Contact (Juris Habar) per player
+Plot Summary:
+**Brief Overview:** The party was hired by the organizers of the Dead River Rodeo to put on a show and collect some documents from the gangs attending the rodeo as a test of the coinbound guild's worth. They were transported to the rodeo and had a meeting with the rodeo ringleader Mr Gonti. Mr Gonti informed them of their tasks and gave them identification to prove to the gangs who they were working for. The party split up and met with 3 out the 4 major Hellcatch Vally gangs. The Coppercoats handed over the documents without incident, but the Thunderheads and Hellspurs asked the party to demonstrate their strength and put on a show for them before they would give them up. The party did so, earning the approval of the two gangs. They then returned the documents to Mr Gonti and proceded to the rodeo show. The party was told to subdue a number of magically enhanced bulls, which they did with great flair and success. After this they were paid and teleported where they needed to go.
+**Important World Impacts** The Hellcatch Valley gangs are now more aware of the coinbound and are interested in hiring them now.
+**Optional Observations** No one picked a fight with anyone who would kill them, great success

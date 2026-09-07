@@ -20,7 +20,7 @@ PCs:
 - [[Fern Oceanwind]]
 - [[Haggar]]
 - [[Stump]]
-- [[Hildagard]]
+- [[Hildagard DECEASED]]
 - [[Violet String]]
 - [[Trunk]]
 - [[Zada]]

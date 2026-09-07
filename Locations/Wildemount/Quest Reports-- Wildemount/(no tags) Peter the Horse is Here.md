@@ -20,7 +20,7 @@ PCs:
 - [[Fern Oceanwind]]
 - [[Sir Parmigiano Reggiano]]
 - [[Jackie Kong]]
-- [[Hildagard]]
+- [[Hildagard DECEASED]]
 Rewards:
 - 1,500 exp per
 - 160 gp (excl. Hildagard) per player

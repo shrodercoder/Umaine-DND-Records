@@ -8,3 +8,25 @@ Important World Impacts: "none"
 Rewards: "â€¢ 1,900 exp + 400 gp per player"
 Optional Observations: "no"
 ---
+DM: June M
+Date: 1/22/26
+In-Universe Date: 
+Location: no clue
+NPCs:
+- Smoke and Ash Kobolds
+- "Terrorists"
+PCs:
+- [[Kirym]]
+- [[Heinrich]]
+- [[Raiju]]
+- [[Fern Oceanwind]]
+- [[The Host]]
+- [[Tors]]
+- [[Sticky]]
+Rewards:
+- 1900 exp per
+- 400 gp per
+Plot Summary:
+**Brief Overview:** party hired by the Smoke and Ash kobold gang to steal some guns "back" from some "terrorists"
+**Important World Impacts** None
+**Optional Observations**

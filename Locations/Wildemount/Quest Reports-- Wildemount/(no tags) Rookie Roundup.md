@@ -31,7 +31,11 @@ NPCs:
 - [[Dr. Jammund]]
 - Owlbear
 PCs:
-- 
+- [[Pierre Mudvayne]]
+- [[Thelia Gelane]]
+- [[Blast Edward Marksman]]
+- [[Zym]]
+- [[Dame Elizabeth]]
 Rewards:
 - 1,900xp per
 - 300 GP per person 
