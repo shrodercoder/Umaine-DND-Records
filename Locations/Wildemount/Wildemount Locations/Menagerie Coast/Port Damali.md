@@ -35,3 +35,10 @@ Events:
 - [[Sunk Costs]]
 	- 10/2/25
 	- World Impact: Two members of the pirate crew who were captured and being held by the town guard of Damali were murdered in their sleep by an unknown party.
+- [[(no tags) Birthday Party]]
+	- 12/13/25
+	- The people of Port Damali have all seen a baby dragon turtle. Melon Tusks for now has one for his wife at his manor until it kills someone and runs away.
+**NON-QUEST EVENTS:
+- The grand opening of the [[Coinbound]] Guild Hall
+	- Quen'Pillar 8, 836 PD
+	- All Coinbound operations officially began on this day as its guild hall was officially open for business.

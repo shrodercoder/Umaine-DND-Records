@@ -17,7 +17,7 @@ NPCs:
 - Moth Man
 - Sucker Granny
 PCs:
-- [[Sir Reggie]]
+- [[Sir Parmigiano Reggiano]]
 - [[Deathclaw]]
 - [[Jorge Ramalo DECEASED]]
 - [[Violet String]] <3

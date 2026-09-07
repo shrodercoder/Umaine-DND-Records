@@ -1,0 +1,1 @@
+Not every single NPC is going to get a page. The way I'm gonna do it is, if a specifically named NPC appears on more than one quest I'm going to give it a page. Or if an NPC hasnt appeared in multiple quests but is important and/or has written, in-club lore (such as [[Roland Fantolin]], or [[Bertrand Dwendal]]) they will also get a page.

@@ -16,7 +16,7 @@ NPCs:
 - Tist
 - Rats (other than Sir Reggie)
 PCs:
-- [[Sir Reggie]]
+- [[Sir Parmigiano Reggiano]]
 - [[Laith]]
 - [[Sparkplug]]
 - [[Drand]] (Dragonboy)

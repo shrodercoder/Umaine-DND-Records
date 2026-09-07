@@ -4,6 +4,7 @@ Events:
 - Quest Name
 	- Quest Date / In-Universe Date
 	- World Impact: 
-- Non-Quest Event
+**NON-QUEST EVENTS
+- Non-Quest Event Name
 	- In-Universe Date
 	- Summarize the event

@@ -8,3 +8,25 @@ Important World Impacts: "The recently discovered large gold reserve is now bein
 Rewards: "â€¢  1800 exp + 560 gp per player\n\n- 3x UC Crafting Components per player\n\n- 1x Hostile Contact for Linda with Sand Veil's Dustmount tribe."
 Optional Observations: "First of many gold mines established"
 ---
+DM: Sam M
+Date: 11/27/25
+In-Universe Date: 
+Location: [[Hellcatch Valley]]
+NPCs:
+- [[Sand Veil]]
+- Cypher Mining Company
+PCs:
+- [[ADAM]]
+- [[Sir Parmigiano Reggiano]]
+- [[White]]
+- [[Linda Greymoor]]
+- [[Robin Free Hands]]
+Rewards:
+- 1800 exp per player
+- 560 gp per player 
+- 3x UC Crafting Components per player 
+- 1x Hostile Contact for Linda with Sand Veil's Dustmount tribe.
+Plot Summary:
+**Brief Overview:** The party was hired by the Cypher Mining Company to defeat and draw the Sand Veil tribespeople away from a previously discovered gold reserve so a mining convoy could set up and entrench at the mine (mine located in the Aggrad Mountains that jut out into [[Hellcatch Valley]] and [[Rumedam Desert]], see QR for Them Thar Hills). The party traveled to the desert and set out in search of the Sand Veil tribes in the area. They soon spotted the Sand Veil patrol in the area and began an extended desert game of cat and mouse, as they attempted to close the distance on the patrol without being spotted to ambush them. They were partially successful as they closed the gap between them and the patrol, but were spotted by Sand Veil falcons. Fortunately the party realized they had been discovered and the patrol was now trying to lead them into a trap, and stopped their pursuit to dig in to defensive positions. After a tense night watch the Sand Veil patrol attacked just after sunrise, leading to a fierce confrontation in which White and Sir Reggie were nearly killed before the patrol was pushed back. Two Sand Veil members were killed and the rest fled to report to their leaders. The party then returned to the convoy and received their payment.
+**Important World Impacts** The recently discovered large gold reserve is now being mined by a Kings Fall mining company. 
+**Optional Observations** First of many gold mines established

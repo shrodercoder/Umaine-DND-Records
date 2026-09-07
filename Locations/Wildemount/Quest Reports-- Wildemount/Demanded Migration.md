@@ -8,7 +8,7 @@ NPCs:
 PCs:
 - [[Woodrow]]
 - [[Violet String]]
-- [[Sir Reggie]]
+- [[Sir Parmigiano Reggiano]]
 - [[Deathclaw]]
 Rewards:
 - 600 exp 
