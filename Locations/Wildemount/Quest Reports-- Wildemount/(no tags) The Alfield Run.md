@@ -8,3 +8,26 @@ Important World Impacts: "-Alfields harvest did not fully get out to the Empire,
 Rewards: "â€¢ 900 exp + 200 gp per player"
 Optional Observations: "Imagine if for a moment you have a cart that has 50hp, it needs to take double that to fully break in one go, you ask a player to roll a d100 for damage and they roll a natural 100, that my friends is what happend here."
 ---
+DM: Bowie
+Date: 11/30/25
+In-Universe Date: 
+Location: [[Alfield]]
+NPCs:
+- Cadwell merchant family
+- Ogres
+PCs:
+- [[Geath]]
+- [[Lucky]]
+- [[Miz]]
+- [[Stanley]]
+- [[Rum DECEASED]]
+- [[Armond]]
+Rewards:
+- 900 exp per
+- 200 gp per player
+Plot Summary:
+**Brief Overview:** The party was asked to help the Cadwell Merchant family to transit to Alfield and pickup supplies, in route. On the way one of the two cargo carts broke down beyond quick repair, in route to a village to get help they encountered 3 Mercenary Ogres who tired to weighlay the party. Due to unfortunate circumstance meddling with a piece of necromantic magic these ogres were made into undead, the party then defeated them in an attack on Titan esq cart chase. While the run was unsuccessful, they returned the Cadwells unharmed and informed the nearest authority of their disturbing encounter.
+**Important World Impacts** 
+- Alfields harvest did not fully get out to the Empire, food prices may be rising a bit. 
+- Cadwell family is a little down on their luck and will need some extra money for the lean winter months.
+**Optional Observations** Imagine if for a moment you have a cart that has 50hp, it needs to take double that to fully break in one go, you ask a player to roll a d100 for damage and they roll a natural 100, that my friends is what happend here.

@@ -8,3 +8,24 @@ Important World Impacts: "none"
 Rewards: "â€¢ 1900 exp + 400 gp per player\n\nâ€¢"
 Optional Observations: ""
 ---
+DM: June M
+Date: 10/17/25
+In-Universe Date: 
+Location: [[Port Damali]] ?
+NPCs:
+- Brawlers
+PCs:
+- [[Fling]]
+- [[Woodrow]]
+- [[Livrak]]
+- [[F'roshe]]
+- [[Ferris Faulkner]]
+- [[Run Fasta]]
+- [[Jackie Kong]]
+Rewards:
+- 1900 exp per
+- 400 gp per player
+Plot Summary:
+**Brief Overview:** party hired as bouncers had to stop a brawl that broke out
+**Important World Impacts** None
+**Optional Observations**

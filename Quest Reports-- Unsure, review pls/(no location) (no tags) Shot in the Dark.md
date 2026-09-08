@@ -21,7 +21,7 @@ PCs:
 - [[Raiju]]
 - [[Fern Oceanwind]]
 - [[The Host]]
-- [[Tors]]
+- [[Tors Ekholm]]
 - [[Sticky]]
 Rewards:
 - 1900 exp per

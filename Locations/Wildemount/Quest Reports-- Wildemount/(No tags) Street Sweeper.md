@@ -8,3 +8,28 @@ Important World Impacts: "With increasing disorganization and blame going around
 Rewards: "1 Lower class carousing contact with a Goblin (Ghouda)"
 Optional Observations: "I nat 1'd two out of the three wisdom-saving throws to stop attacking Nym, and the party failed a d100 luck check for him to stop. That guy wasn't even supposed to be in the combat. I almost feel bad, but the dice just wanted him dead."
 ---
+DM: Curtis T
+Date: 10/16/25
+In-Universe Date: 
+Location: [[Port Damali]]
+NPCs:
+- Judge Dredd
+- Strongarms
+- Quicksilvers
+- Mind Goblinz
+PCs:
+- [[Jorge Ramalo DECEASED]]
+- [[Hoover Cowell]]
+- [[John Jr]]
+- [[Tat]]
+- [[Sylvester]]
+- [[Nym Illistyn DECEASED]]
+Rewards:
+- 1900 EXP gp
+- 300 GP each
+- Cloak of Billow each 
+- Sylvester & Hoover: 1 Lower class carousing contact with a Goblin (Ghouda)
+Plot Summary:
+**Brief Overview:** The party was hired by Judge Dredd to prevent an official truce between the Strongarms, Quicksilvers, and Mind Goblinz. They made their way to the Hoodland Tavern, managed to convince two of the quicksilvers to leave their gang, and found the meeting place in a farm conviently outside of the boundaries of port Damali. After a hard-fought battle caused by attacking the one strong enemy who could care less about the combat and the unfortunate death of coinbound Nym Illistyn by the hands of Cake, the party successfully destroyed the truce before it could come into effect.
+**Important World Impacts** With increasing disorganization and blame going around the gangs, the truce between them weakens. Taken has become an easier quest as a consequence.
+**Optional Observations** I nat 1'd two out of the three wisdom-saving throws to stop attacking Nym, and the party failed a d100 luck check for him to stop. That guy wasn't even supposed to be in the combat. I almost feel bad, but the dice just wanted him dead.

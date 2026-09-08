@@ -26,3 +26,25 @@ Important World Impacts: |-
 Rewards: Thelia makes good ribs.
 Optional Observations: ""
 ---
+DM: Charles M
+Date: 2/5/26
+In-Universe Date: 
+Location: [[Palma Flora]]
+NPCs:
+- 
+PCs:
+- [[Rathhuil]]
+- [[AEGIS]]
+- [[Tors Ekholm]]
+- [[Sticks]]
+- [[Pierre Mudvayne]]
+- [[Thelia Gelane]]
+- [[Ivan]]
+- [[Kiona]]
+Rewards:
+- 1900 Xp 
+- 50gp
+Plot Summary:
+**Brief Overview:** The party went down to Palma Flora, and tried out the re-branding the resort. It went horribly as the highlight of the time was thelia making ribs. the party saw animals doing tricks and one person almost got bit.
+**Important World Impacts** None
+**Optional Observations** Thelia makes good ribs.

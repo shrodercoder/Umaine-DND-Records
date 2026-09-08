@@ -6,7 +6,7 @@ NPCs:
 - Pelenato
 PCs:
 - [[Disco]]
-- [[Nym]]
+- [[Nym Illistyn DECEASED]]
 - [[Alton Thorngage]]
 - [[JOHN EXANDRIA]]
 - [[Ajax Ridulari]]

@@ -18,7 +18,7 @@ PCs:
 - [[Daphy]]
 - [[Siegfried]]
 - [[Cedric]]
-- [[Nym]]
+- [[Nym Illistyn DECEASED]]
 - [[Xavier]]
 Rewards:
 - 1,900 exp per

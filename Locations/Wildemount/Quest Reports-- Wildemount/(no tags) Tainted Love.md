@@ -8,3 +8,28 @@ Important World Impacts: "None"
 Rewards: "160gp each \n\n1500xp \n\n1 Uncommon Permanent Each \n\nPeriapt of Wound Closure \n\nRod of Mercurial Form \n\nSentinel Shield \n\nEyes of the Eagle \n\nLightning Javelin"
 Optional Observations: "Sazanatos (Owen) recruited two members of the party to The 7 Wonders"
 ---
+DM: Dylan G
+Date: 11/10/25
+In-Universe Date: 
+Location: [[Wildemount]]
+NPCs:
+- Ratagan
+- [[Motley Crue]]
+PCs:
+- [[Rathhuil]]
+- [[Sazantos]]
+- [[Helios Dawnpaw]]
+- [[Siegfried]]
+- [[Chaille]]
+Rewards:
+- 160gp each 
+- 1500xp each
+- Periapt of Wound Closure 
+- Rod of Mercurial Form 
+- Sentinel Shield 
+- Eyes of the Eagle 
+- Lightning Javelin
+Plot Summary:
+**Brief Overview:** Coinbound rallied to the aid of an elderly man named Ratagan, who claimed his village was overrun with bandits. The party followed him as he led them to a roadside tavern far off from civilization where they were surprised by The Motley Crue, and the old man revealed himself to be a Wererat working to lure them into the trap. The party cleared out the tavern of the miscreants and claimed the treasures of the previous Coinbound who fell for the trap.
+**Important World Impacts** None
+**Optional Observations** Sazanatos (Owen) recruited two members of the party to The 7 Wonders

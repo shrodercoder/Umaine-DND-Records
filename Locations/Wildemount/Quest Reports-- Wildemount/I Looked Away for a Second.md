@@ -5,7 +5,7 @@ Location: [[Bazzoxan]]
 NPCs:
 - Drow siblings
 PCs:
-- [[Nym]]
+- [[Nym Illistyn DECEASED]]
 - [[Characters/PCs/Livrak]]
 - [[ZubZub]]
 - [[Myn]] (fake name, figure out the real one)

@@ -53,3 +53,38 @@ Rewards: |-
    Sentinel Shield ~ Sir Reggie
 Optional Observations: I hope they enjoyed the Dreams as much as I did! I downed Thelia so... uhoh
 ---
+DM: Charles M
+Date: 1/18/26
+In-Universe Date: 
+Location: [[Blightshore]]
+NPCs:
+- Taldagon Tribe
+- Fey
+PCs:
+- [[Sir Parmigiano Reggiano]]
+- [[Lumen Svet]]
+- [[Thelia Gelane]]
+- [[Raiju]]
+- [[Ulysses]]
+- [[Robin Free Hands]]
+Rewards:
+- 1800 xp 
+- Deck of Illusions ~ Thelia 
+- Deck of Miscellany ~ Thelia Card 
+- Sharp's Deck ~ Thelia 
+- Cloak of Elvenkind ~ Robin Free hands 
+- Brooch of Shielding ~ lumen 
+- Bag of Tricks ~ Raiju 
+- Goggles of Night ~ Raiju 
+- Alechmy Jug ~ Robin free hands 
+- Immovable Rod ~ Lumen 
+- Winged Boots ~ Ulysses 
+- Stone of Goodluck ~ Ulysses 
+- Ring of Warmth ~ Sir Reggie 
+- Sentinel Shield ~ Sir Reggie
+Plot Summary:
+**Brief Overview:** The Nomatic Taldagon Tribe of goblins was stuck in the Blight Shores. This tribe has had a string of Disappearances. Everyone riddled with grief from these losses, which only causing the rate of people disappearing to increase because some Fey were feeding off of people's emotions. The fey were kidnapping people, putting them into magical sleep, and feeding off their good emotions in their dreams. 
+The party, after traveling 4 days, made it to the tribe, where the Fey were preparing for their next victim. After investigating, they hid in waiting. As a Fey walked out, seeing them all drops them into its domain. The party then tried to reason with these Fey, who saw nothing wrong with what they were doing. 
+Words were said, some meaner than others, and combat started. After dealing with the dreams that were forced upon them, the party dispatched these fey, grabbed the survivors, and used their magic to level the domain before it collapsed!
+**Important World Impacts** None
+**Optional Observations** I hope they enjoyed the Dreams as much as I did! I downed Thelia so... uhoh
