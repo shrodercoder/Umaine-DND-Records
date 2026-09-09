@@ -3,5 +3,5 @@ Level: 8
 Class(es): Paladin
 Race: Metallic Dragonborn
 Quests:
-- [[The Woodcutter's Sneak]]
+- [[(no tags) (no location) The Woodcutter's Sneak]]
 - 

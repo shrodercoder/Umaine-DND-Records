@@ -22,31 +22,21 @@
             }
           },
           {
-            "id": "78446c68e0aa7351",
+            "id": "98f156241789b888",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quest Reports-- Unsure, review pls/The Predator's Shadow.md",
+                "file": "Locations/Wildemount/Wildemount Locations/Menagerie Coast/Port Damali.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Predator's Shadow"
-            }
-          },
-          {
-            "id": "faedfa9313fe58f0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Port Damali"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "the motley cruise",
+                "query": "the woodcutter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,34 +203,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "faedfa9313fe58f0",
+  "active": "98f156241789b888",
   "lastOpenFiles": [
-    "Quest Reports-- Unsure, review pls/The Predator's Shadow.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) The Owl House.md",
     "Templates/Quest Template.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) The Motley Cruise.md",
     "Quest Reports-- Unsure, review pls/(weird, fix it) Lost and Found.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) The marks.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/The Lantern and The Plow.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/The King of Cats.md",
-    "Quest Reports-- Unsure, review pls/The Lantern and The Plow.md",
-    "Characters/PCs/Deceased/Gabba Goul DECEASED.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) The Impasta.md",
-    "Quest Reports-- Unsure, review pls/The King of Cats.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) The Good, the Bad, and the Devil's Advocate.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) Just a normal fishing trip.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) The Brilliant Strand.md",
-    "Tors Ekholm.md",
-    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/(no tags) The Body that Remembers.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) The Alfield Run.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) Temporal Torture.md",
-    "Quest Reports-- Unsure, review pls/(no location) (no tags) The Owl House 2 Teamwork Makes the Dream Work.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) (clarify location) Tavern Brawl.md",
-    "Quest Reports-- Unsure, review pls/(no tags) (no location) Taken.md",
-    "Locations/Wildemount/Wildemount Locations/Menagerie Coast/Port Damali.md",
-    "Quest Reports-- Unsure, review pls/Take This!.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/Take This!.md",
-    "Locations/Wildemount/Quest Reports-- Wildemount/(no tags) Tainted Love.md",
+    "Quest Reports-- Unsure, review pls/Who Can It Be Now.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Toy Chest.md",
+    "Quest Reports-- Unsure, review pls/(NO QUEST REPORT REVISIT) Giants' Might.md",
+    "Quest Reports-- Unsure, review pls/(weird) First Time at the Rodeo.md",
+    "Quest Reports-- Unsure, review pls/What Waits in the Woods.md",
+    "Quest Reports-- Unsure, review pls/Weekend at Bingles.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Welcome to Damali.md",
+    "Quest Reports-- Unsure, review pls/Welcome to Damali.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Twinward Isles Expedition.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Trade Time Troubles.md",
+    "Quest Reports-- Unsure, review pls/Twinward Isles Expedition.md",
+    "Quest Reports-- Unsure, review pls/Trade Time Troubles.md",
+    "Quest Reports-- Unsure, review pls/Top Gun.md",
+    "Quest Reports-- Unsure, review pls/Toy Chest.md",
+    "Quest Reports-- Unsure, review pls/(weird) Time Flies when you're having Frog.md",
+    "Quest Reports-- Unsure, review pls/Tidebreaker.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/Thieves in the Mist.md",
+    "Locations/Wildemount/Quest Reports-- Wildemount/They Rise Again.md",
+    "Locations/Tal'Dorei/Quest Reports-- Tal'dorei/(no tags) There is no Trouble in the Rifenmist Jungle.md",
+    "Quest Reports-- Unsure, review pls/They Rise Again.md",
+    "Quest Reports-- Unsure, review pls/Thieves in the Mist.md",
+    "Locations/Marquet/Marquet-- Quest Reports/(no tags) Them Thar Hills.md",
+    "Quest Reports-- Unsure, review pls/(no tags) (no location) The Woodcutter's Sneak.md",
+    "Characters/NPCs/People/Agatha.md",
     "delete later (shitposts)/Pasted image 20260903103245.png",
     "Quest Reports-- Unsure.base",
     "delete later (shitposts)",

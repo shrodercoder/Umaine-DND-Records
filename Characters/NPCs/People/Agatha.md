@@ -1,5 +1,5 @@
 DM: Ben 
 Quest(s): 
-- [[The Woodcutter's Sneak]]
+- [[(no tags) (no location) The Woodcutter's Sneak]]
 Notes:
 - Woodcarver, owns a shop

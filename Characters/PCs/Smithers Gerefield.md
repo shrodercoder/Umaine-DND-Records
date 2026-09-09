@@ -3,5 +3,5 @@ Level: 3
 Class(es): Ranger
 Race: Verdan
 Quests:
-- [[The Woodcutter's Sneak]]
+- [[(no tags) (no location) The Woodcutter's Sneak]]
 - 

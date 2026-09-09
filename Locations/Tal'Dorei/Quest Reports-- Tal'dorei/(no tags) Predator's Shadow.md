@@ -8,3 +8,31 @@ Important World Impacts: "Dinos are wandering into civilized areas from the Rife
 Rewards: "â€“- +1 Obsidian Dagger (UC) \n\n   -- Adamantine Breastplate (UC)\n\n   -- Periapt of Wound Closure (UC)\n\n   -- Goggles of Night (UC)\n\n   -- Potion of Hill Giant Strength (UCC)\n\n   -- Potion of Firebreath (UCC)\n\n   -- Dust of Corrosion (UCC)\n\n   -- Oil of Slipperiness  (UCC)\n\n   -- 4 Uncommon Crafting (Dino skins)"
 Optional Observations: "Giant unkillable dino battles are pretty epic."
 ---
+DM: Kevin Y
+Date: 10/8/25
+In-Universe Date: 
+Location: [[Rifenmist]], [[Mornset Countryside]]
+NPCs:
+- Lizardfolk zombies
+- T-Rex
+PCs:
+- [[Dobin Longfang]]
+- [[Drand]]
+- [[Roh-Bob]]
+- [[Nym Illistyn DECEASED]]
+Rewards:
+- 3000 exp per
+- 462 gp per player
+- +1 Obsidian Dagger 
+- Adamantine Breastplate 
+- Periapt of Wound Closure 
+- Goggles of Night 
+- Potion of Hill Giant Strength 
+- Potion of Firebreath 
+- Dust of Corrosion 
+- Oil of Slipperiness 
+- 4 Uncommon Crafting (Dino skins)
+Plot Summary:
+**Brief Overview:** Players were hired to travel to Tal'Dorei and deal with a rogue creature killing livestock in the Mornset Countryside just north of the Rifenmist Jungle. Players set a trap for the creature, but were attacked by a group of Lizardfolk Zombies instead. The following day they tracked the creature into the jungle, and found a rogue T-Rex fighting another group of lizardfolk in an ancient area of Qoniirian ruins infused with latent necromantic magics that would raise anything that died there into zombies. After fighting the T-Rex, it returned, and the players found an obelisk in nearby ruins leaking magic. Once the obelisk was destroyed, the zombie T-Rex dropped, and the players returned with the head of the T-Rex as proof of their victory.
+**Important World Impacts** Dinos are wandering into civilized areas from the Rifenmist Jungle.
+**Optional Observations** Giant unkillable dino battles are pretty epic.

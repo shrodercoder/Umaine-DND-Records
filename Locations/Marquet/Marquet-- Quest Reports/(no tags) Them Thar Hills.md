@@ -8,3 +8,26 @@ Important World Impacts: "A large gold source has been discovered near the mount
 Rewards: "â€¢ 1500 exp + 560 gp per player (10 extra for those who took the deal)"
 Optional Observations: "Eversmoking bottle is really good"
 ---
+DM: Sam M
+Date: 10/31/25
+In-Universe Date: 
+Location: [[Rumedam Desert]], [[Hellcatch Valley]], [[Aggrad Mountains]]
+NPCs:
+- [[Okko]]
+- Xorn
+- [[Sand Veil]]
+PCs:
+- [[Warren Monger]]
+- [[Fling]]
+- [[Guenhyvari]]
+- [[Raiju]]
+- [[Linda Greymoor]]
+- [[Dobin Longfang]]
+- [[Carter Farsight]]
+Rewards:
+- 1500 exp per
+- 560 gp per (10 extra for those who took the deal)
+Plot Summary:
+**Brief Overview:** The Party was hired by the mysterious cowboy Okko to investigate traces of gold found in borderlands between Hellcatch Valley and Rumedam Desert. The party traveled through the desert and found tracks containing gold dust. The party followed them into foothills of the Aggrad Mountains and found a cave. They entered the cave and at the end of it they found a cavern filled with large gold veins. After investigating they realized that there was likely even more gold than was on the surface of the cave, at which point they were attacked by the Xorn guarding the gold. The Xorn was quickly defeated and the party rested at the mouth of the cave, knowing they had been followed there by a desert tribesman. Despite this knowledge they proceed to their exit point without paying any attention to their surroundings and so were ambushed by Sand Veil raiders. After a tense battle one raider was killed and the rest fled badly injured. The party met up with Okko who gave them their reward and a little extra to any of who spread the word of the gold.
+**Important World Impacts** A large gold source has been discovered near the mountain that juts out into Hellcatch Valley and Rumedam Desert. Word of the gold is being spread and mining attempts are likely.
+**Optional Observations** Eversmoking bottle is really good

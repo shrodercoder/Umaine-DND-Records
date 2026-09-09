@@ -8,3 +8,29 @@ Important World Impacts: "None."
 Rewards: "-- Potion of Psionic Fortitude\n\n   -- Potion of Advantage\n\n   -- Potion of Greater Healing\n\n   -- Potion of Growth\n\n   -- Potion of Resistance\n\n   -- Potion of Water Breathing"
 Optional Observations: "Going through the Halloween event, this session, then Pain Train (Couldn't play; Blast was too Dwendelian-pilled), then three hours of homework mixed with stat-block building, plus Jesse's saga... I couldn't have asked for a better time!"
 ---
+DM: Curtis T
+Date: 11/6/25
+In-Universe Date: 
+Location: no clue
+NPCs:
+- "Witch"
+- Various large insects and rodents
+PCs:
+- [[Raiju]]
+- [[Roh-Bob]]
+- [[Livrak]]
+- [[Jackie Kong]]
+Rewards:
+- 1500 EXP per
+- 160 gp per player
+- Broom of Flying
+- Potion of Psionic Fortitude 
+- Potion of Advantage 
+- Potion of Greater Healing 
+- Potion of Growth 
+- Potion of Resistance 
+- Potion of Water Breathing
+Plot Summary:
+**Brief Overview:** The party was hired by a "witch" to clean out her house of various large insects and rodents. The party succeeded.
+**Important World Impacts** None
+**Optional Observations** Going through the Halloween event, this session, then Pain Train (Couldn't play; Blast was too Dwendelian-pilled), then three hours of homework mixed with stat-block building, plus Jesse's saga... I couldn't have asked for a better time!

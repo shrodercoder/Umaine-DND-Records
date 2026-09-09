@@ -8,3 +8,17 @@ Important World Impacts: "A ghost ship momentarily entered the harbor at Port De
 Rewards: "-- Whip, +1\n\n   -- Pike of Warning\n\n   -- Javelin of Lightning\n\n   -- Bag of Holding\n\n   -- Cloak of the Manta Ray\n\n   -- Alchemy Jug\n\n   -- Bag of Tricks (Gray)\n\n   -- Boots of Elvenkind\n\n   -- Decanter of Endless Water\n\n   -- Goggles of Night"
 Optional Observations: ""
 ---
+DM:
+Date: 
+In-Universe Date: 
+Location:
+NPCs:
+- 
+PCs:
+- 
+Rewards:
+- 
+Plot Summary:
+**Brief Overview:** 
+**Important World Impacts**
+**Optional Observations**

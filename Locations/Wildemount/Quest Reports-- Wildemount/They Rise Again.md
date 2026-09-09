@@ -12,8 +12,13 @@ PCs:
 - [[Áine]]
 - [[Sir Parmigiano Reggiano]]
 - [[Dame Elizabeth]]
+Rewards:
+- 600 exp per
+- 120 gp per player 
+- +1 Contact, Garig of Pride's Call
 Plot Summary:
 **Brief Overview:** The party was hired by a representative of Pride's Call to defend a shipment of pride silk between Pride's Call and Yrrosa after several travelers and a shipment of pride silk went missing. Traveling up Pride's Walk Road with a caravan of dwarves, the party saw a figure watching them during the night, before encountering the lost caravan in the woods between Pride's Call and Yrrosa. The caravan was then ambushed by a group of undead, including reanimated wolves and a ghast, which were ultimately destroyed. The shipment arrived at Yrrosa safely. 
 **Important World Impacts:** Attack on Pride's Walk Road have lessened for the moment, and shipments of Pride Silk between the two towns are far more heavily armed.
+**Optional Observations** Sun Tzu once said "If you stab a motherfucker, they stop moving"
 
 #Wildemount #Dwendalia #Northwest-Dwendalia #Prides-Call #Diligence 

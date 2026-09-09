@@ -3,5 +3,5 @@ Level: 5
 Class(es):
 Race:
 Quests:
-- [[The Woodcutter's Sneak]]
+- [[(no tags) (no location) The Woodcutter's Sneak]]
 - 
