@@ -8,17 +8,33 @@ Important World Impacts: "A ghost ship momentarily entered the harbor at Port De
 Rewards: "-- Whip, +1\n\n   -- Pike of Warning\n\n   -- Javelin of Lightning\n\n   -- Bag of Holding\n\n   -- Cloak of the Manta Ray\n\n   -- Alchemy Jug\n\n   -- Bag of Tricks (Gray)\n\n   -- Boots of Elvenkind\n\n   -- Decanter of Endless Water\n\n   -- Goggles of Night"
 Optional Observations: ""
 ---
-DM:
-Date: 
+DM: Jasmine M
+Date: 12/1/25
 In-Universe Date: 
-Location:
+Location: [[Port Damali]], [[Menagerie Coast]]
 NPCs:
-- 
+- Captain's wife
+- Ghost crew
 PCs:
-- 
+- [[Gaar]]
+- [[Deathclaw]]
+- [[Guenhyvari]]
+- [[Ptolemy]]
+- [[Tat]]
 Rewards:
-- 
+- 1,800 exp per
+- 80 gp per player 
+- Whip, +1 
+- Pike of Warning 
+- Javelin of Lightning 
+- Bag of Holding 
+- Cloak of the Manta Ray 
+- Alchemy Jug 
+- Bag of Tricks (Gray) 
+- Boots of Elvenkind 
+- Decanter of Endless Water 
+- Goggles of Night
 Plot Summary:
-**Brief Overview:** 
-**Important World Impacts**
-**Optional Observations**
+**Brief Overview:** The party was hired by a whaling ship captain's wife to figure out why the ship had not yet returned 2 months after it was supposed to. Party was contracted to depart from port demali on another ship and given a necklace that would point them to their destination. Following the necklace over several days did not lead the party to a shipwreck as expected but to a ghost ship under full sail crewed by undead who did not quite realize that they were undead. Party helped the captain, now a revenant, finish her unfinished buisness hunting down the horror of a whale that had killed her in the first place. The captain then hitched a ride on the teleportation tablet the party was given, and made it back to port demali and her wife in time to say goodbye before returning to death.
+**Important World Impacts** A ghost ship momentarily entered the harbor at Port Demali before rapidly decomposing into scrap and dissapearing. Totally not a last minute scramble to prevent the party from leaving all their rewards behind on the ship.
+**Optional Observations** 

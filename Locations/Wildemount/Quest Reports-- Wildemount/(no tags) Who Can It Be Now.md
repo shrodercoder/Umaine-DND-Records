@@ -8,3 +8,32 @@ Important World Impacts: "The Motley Crue takes another hit to their plans in Wi
 Rewards: "900xp for Blast\n\n2800xp for Fern, Ahkran, Haggar, Dodaro\n\n1900xp for Sazantos\n\n1 Uncommon Crafting Component Each (Excluding Sazantos)\n\n180 GP for Fern, Ahkran, & Haggar\n\n5 Uncommon Permanents\n\nBag of Holding\n\nBracers of Archery\n\nImmovable Rod\n\nStone of Good Luck\n\nAmulet of the Drunkard"
 Optional Observations: "This Crue is pretty Motleyâ€¦"
 ---
+DM: Dylan G
+Date: 10/20/25
+In-Universe Date: 
+Location: [[Trostenwald]]
+NPCs:
+- Traders guild
+- [[Motley Crue]]
+PCs:
+- [[Sazantos]]
+- [[Fern Oceanwind]]
+- [[Ahkran]]
+- [[Haggar]]
+- [[Blast Edward Marksman]]
+- [[Dodaro]]
+Rewards:
+- 900xp for Blast 
+- 2800xp for Fern, Ahkran, Haggar, Dodaro 
+- 1900xp for Sazantos 
+- 1 Uncommon Crafting Component Each (Excluding Sazantos) 
+- 180 GP for Fern, Ahkran, & Haggar 
+- Bag of Holding 
+- Bracers of Archery 
+- Immovable Rod 
+- Stone of Good Luck 
+- Amulet of the Drunkard
+Plot Summary:
+**Brief Overview:** Coinbound were hired by a traders guild to remove a bandit encampment nearby an important trade route in Trostenwald. Upon arrival, they discover it belongs to the Motley Crue. They groups attempted a full frontal assault on the hideout only to be bested by the Motley Crue Co-Captians in the end, forcing the still conscious members to make a retreat while the rest were captured. After resting and reevaluating their strategy they deemed that infiltration would be smarter than knocking on the front gate. Surprising the goons, freeing their captured allies, stealing as much loot as they could hold, and burning the encampment down before a Motley Crue top brass could arrive and stop them.
+**Important World Impacts** The Motley Crue takes another hit to their plans in Wildmount, and trade routes to and from Trostenwald get a little safer.
+**Optional Observations** This Crue is pretty Motley…
